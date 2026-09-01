@@ -1,0 +1,62 @@
+about:
+  description: Virtual Python Environment builder
+  license: MIT
+  homepage: https://virtualenv.pypa.io
+  head: f4e186e
+  archived: false
+  latestVersion: 21.7.7
+  collectedAt: 2026-09-01T05:35:43Z
+timeline:
+  created: 2011-03-06
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-28
+popularity:
+  star: 5041
+  watcher: 161
+  fork: 1114
+  release: 98
+  contributor: 210
+  pullRequest: 401
+  issue: 1429
+language:
+  Python: 524336
+  Shell: 9753
+  PowerShell: 6865
+  Xonsh: 3838
+  Nushell: 3287
+  Batchfile: 2869
+  C: 1135
+totalLine: 552083
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 6
+    mergedPR: 22
+    openPR: 1
+    closedIssue: 1
+    openIssue: 0
+    commit: 26
+  last90d:
+    since: 2026-06-03
+    release: 14
+    mergedPR: 58
+    openPR: 2
+    closedIssue: 8
+    openIssue: 0
+    commit: 74
+  last180d:
+    since: 2026-03-05
+    release: 26
+    mergedPR: 113
+    openPR: 2
+    closedIssue: 17
+    openIssue: 0
+    commit: 136
+  last360d:
+    since: 2025-09-06
+    release: 37
+    mergedPR: 194
+    openPR: 2
+    closedIssue: 51
+    openIssue: 0
+    commit: 238
