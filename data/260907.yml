@@ -5,18 +5,18 @@ about:
   head: 2ef85af
   archived: false
   latestVersion: "21.7.8"
-  collectedAt: 2026-09-07T04:41:12Z
+  collectedAt: 2026-09-07T19:49:51Z
 timeline:
   created: 2011-03-06
   lastCommit: 2026-09-01
   lastRelease: 2026-09-01
 popularity:
-  star: 5044
+  star: 5045
   watcher: 161
   fork: 1114
   release: 99
   contributor: 210
-  pullRequest: 1752
+  pullRequest: 1753
   issue: 1429
 language:
   Python: 524634
@@ -32,60 +32,60 @@ recent:
     since: 2026-08-08
     release: 6
     mergedPR: 19
-    openPR: 2
+    openPR: 3
     closedIssue: 0
     openIssue: 0
-    commit: 19
+    commit: 0
   last60d:
     since: 2026-07-09
     release: 10
     mergedPR: 38
-    openPR: 4
+    openPR: 5
     closedIssue: 2
     openIssue: 0
-    commit: 44
+    commit: 0
   last90d:
     since: 2026-06-09
     release: 15
     mergedPR: 55
-    openPR: 4
+    openPR: 5
     closedIssue: 4
     openIssue: 0
-    commit: 64
+    commit: 0
   last180d:
     since: 2026-03-11
     release: 26
     mergedPR: 109
-    openPR: 4
+    openPR: 5
     closedIssue: 15
     openIssue: 0
-    commit: 136
+    commit: 0
   last360d:
     since: 2025-09-12
     release: 38
     mergedPR: 194
-    openPR: 4
+    openPR: 5
     closedIssue: 51
     openIssue: 0
-    commit: 239
+    commit: 0
   last720d:
     since: 2024-09-17
     release: 57
     mergedPR: 317
-    openPR: 4
+    openPR: 5
     closedIssue: 103
     openIssue: 0
     commit: 433
 total:
   release: 99
   mergedPR: 1349
-  openPR: 4
+  openPR: 5
   closedIssue: 1429
   openIssue: 0
   commit: 1250
 ---
 path: /home/runner/.x-repo/github.com/pypa/virtualenv
-collectedAt: 2026-09-07T04:41:28Z
+collectedAt: 2026-09-07T19:49:59Z
 loc:
   Python:
     code: 11645
@@ -281,7 +281,7 @@ checks:
       - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/release.yaml:40'
 ---
 eget:
-  collectedAt: 2026-09-07T04:41:29+00:00
+  collectedAt: 2026-09-07T19:50:00+00:00
   platform:
     darwin/arm64:
       name:  null
