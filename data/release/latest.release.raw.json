@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/pypa/virtualenv/releases/380530440",
-  "assets_url": "https://api.github.com/repos/pypa/virtualenv/releases/380530440/assets",
-  "upload_url": "https://uploads.github.com/repos/pypa/virtualenv/releases/380530440/assets{?name,label}",
-  "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.7.8",
-  "id": 380530440,
+  "url": "https://api.github.com/repos/pypa/virtualenv/releases/385156015",
+  "assets_url": "https://api.github.com/repos/pypa/virtualenv/releases/385156015/assets",
+  "upload_url": "https://uploads.github.com/repos/pypa/virtualenv/releases/385156015/assets{?name,label}",
+  "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.7.9",
+  "id": 385156015,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOABYSSs4Wrm8I",
-  "tag_name": "21.7.8",
+  "node_id": "RE_kwDOABYSSs4W9QOv",
+  "tag_name": "21.7.9",
   "target_commitish": "main",
-  "name": "21.7.8",
+  "name": "21.7.9",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-01T13:34:52Z",
-  "updated_at": "2026-09-01T13:36:21Z",
-  "published_at": "2026-09-01T13:36:21Z",
+  "created_at": "2026-09-09T01:01:38Z",
+  "updated_at": "2026-09-09T01:03:32Z",
+  "published_at": "2026-09-09T01:03:32Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/539600230",
-      "id": 539600230,
-      "node_id": "RA_kwDOABYSSs4gKaVm",
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/551686451",
+      "id": 551686451,
+      "node_id": "RA_kwDOABYSSs4g4hEz",
       "name": "virtualenv.pyz",
       "label": "",
       "uploader": {
@@ -65,16 +65,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 8216597,
-      "digest": "sha256:72ebae2a254966c2969f1343c018dc583d1ec92ab98c12d9b329ab09b9e3c21d",
-      "download_count": 7,
-      "created_at": "2026-09-01T13:36:20Z",
-      "updated_at": "2026-09-01T13:36:20Z",
-      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.7.8/virtualenv.pyz"
+      "size": 8218502,
+      "digest": "sha256:7f8a0975ef0283458e8f2e43dc1ec2d0645c84fb9080d5a069bde0eeb45a0850",
+      "download_count": 1,
+      "created_at": "2026-09-09T01:03:31Z",
+      "updated_at": "2026-09-09T01:03:31Z",
+      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.7.9/virtualenv.pyz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/pypa/virtualenv/tarball/21.7.8",
-  "zipball_url": "https://api.github.com/repos/pypa/virtualenv/zipball/21.7.8",
-  "body": "<!-- Release notes generated using configuration in .github/release.yaml at 21.7.8 -->\n\n## What's Changed\n* 🐛 fix(create): report a missing source that both modes need by @darrenhuai in https://github.com/pypa/virtualenv/pull/3227\n\n\n**Full Changelog**: https://github.com/pypa/virtualenv/compare/21.7.7...21.7.8",
-  "mentions_count": 1
+  "tarball_url": "https://api.github.com/repos/pypa/virtualenv/tarball/21.7.9",
+  "zipball_url": "https://api.github.com/repos/pypa/virtualenv/zipball/21.7.9",
+  "body": "<!-- Release notes generated using configuration in .github/release.yaml at 21.7.9 -->\n\n## What's Changed\n* fix(test): EncodingWarning: 'encoding' argument not specified by @even-even in https://github.com/pypa/virtualenv/pull/3228\n* 🐛 fix(config): ignore a config file that fails to parse instead of crashing by @darrenhuai in https://github.com/pypa/virtualenv/pull/3230\n* 🐛 fix(util): replace a stale symlink instead of writing through it by @darrenhuai in https://github.com/pypa/virtualenv/pull/3229\n\n\n**Full Changelog**: https://github.com/pypa/virtualenv/compare/21.7.8...21.7.9",
+  "mentions_count": 2
 }
