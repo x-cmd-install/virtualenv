@@ -4,7 +4,7 @@
 
 Virtual Python Environment builder
 
-![virtualenv](https://repo.x-cmd.io/virtualenv.svg)
+![virtualenv](https://repo.x-cmd.io/virtualenv.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,12 @@ x install virtualenv
 - **最新版本**: `21.7.9` (2026-09-09)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 1 个
-- **发布时间**: 2026-09-09T01:03:32Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [virtualenv.pyz](https://github.com/pypa/virtualenv/releases/download/21.7.9/virtualenv.pyz) | 7.8 MiB | `other` |
 
 ## 流行度
 
@@ -31,15 +36,15 @@ x install virtualenv
 
 ## 累计统计
 
-- **发布数**: 100 · **已合并 PR**: 1352 · **开放 PR**: 3 · **已关闭 issue**: 1429 · **开放 issue**: 0 · **提交数**: 1254
+- **发布数**: 100 · **已合并 PR**: 1352 · **开放 PR**: 4 · **已关闭 issue**: 1429 · **开放 issue**: 0 · **提交数**: 1254
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 5 | 20 | 1 | 0 | 0 | 23 |
-| 90d | 2026-06-12 | 15 | 54 | 3 | 4 | 0 | 68 |
-| 360d | 2025-09-15 | 39 | 197 | 3 | 50 | 0 | 243 |
+| 30d | 2026-08-11 | 5 | 20 | 2 | 0 | 0 | 23 |
+| 90d | 2026-06-12 | 15 | 54 | 4 | 4 | 0 | 68 |
+| 360d | 2025-09-15 | 39 | 197 | 4 | 50 | 0 | 243 |
 
 ## 代码规模
 
@@ -72,4 +77,4 @@ virtualenv 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:39:15Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:31:45Z._

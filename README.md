@@ -23,7 +23,12 @@ x install virtualenv
 - **Latest**: `21.7.9` (2026-09-09)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 1
-- **Published**: 2026-09-09T01:03:32Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [virtualenv.pyz](https://github.com/pypa/virtualenv/releases/download/21.7.9/virtualenv.pyz) | 7.8 MiB | `other` |
 
 ## Popularity
 
@@ -31,15 +36,15 @@ x install virtualenv
 
 ## Totals (cumulative)
 
-- **Releases**: 100 · **Merged PRs**: 1352 · **Open PRs**: 3 · **Closed issues**: 1429 · **Open issues**: 0 · **Commits**: 1254
+- **Releases**: 100 · **Merged PRs**: 1352 · **Open PRs**: 4 · **Closed issues**: 1429 · **Open issues**: 0 · **Commits**: 1254
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 5 | 20 | 1 | 0 | 0 | 23 |
-| 90d | 2026-06-12 | 15 | 54 | 3 | 4 | 0 | 68 |
-| 360d | 2025-09-15 | 39 | 197 | 3 | 50 | 0 | 243 |
+| 30d | 2026-08-11 | 5 | 20 | 2 | 0 | 0 | 23 |
+| 90d | 2026-06-12 | 15 | 54 | 4 | 4 | 0 | 68 |
+| 360d | 2025-09-15 | 39 | 197 | 4 | 50 | 0 | 243 |
 
 ## Code size
 
@@ -68,8 +73,8 @@ Lowest-scoring checks:
 Install metadata for virtualenv lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `virtualenv` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/virtualenv.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/virtualenv.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:39:13Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:31:44Z._
