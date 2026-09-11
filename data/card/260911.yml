@@ -7,7 +7,7 @@ about:
   latestVersion: "21.7.9"
   latestRelease: "21.7.9"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:16:39Z
+  collectedAt: 2026-09-11T04:53:59Z
 timeline:
   created: 2011-03-06
   lastCommit: 2026-09-09
@@ -89,7 +89,7 @@ total:
   commit: 1254
 ---
 path: /home/runner/.x-repo/github.com/pypa/virtualenv
-collectedAt: 2026-09-11T00:16:47Z
+collectedAt: 2026-09-11T04:54:09Z
 loc:
   Python:
     code: 11734
