@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 5 | 18 | 3 | 0 | 0 | 23 |
-| last60d | 2026-07-13 | 10 | 38 | 5 | 2 | 0 | 48 |
-| 90d | 2026-06-13 | 15 | 52 | 5 | 4 | 0 | 68 |
-| last180d | 2026-03-15 | 27 | 112 | 5 | 15 | 0 | 140 |
-| 360d | 2025-09-16 | 39 | 197 | 5 | 50 | 0 | 243 |
-| last720d | 2024-09-21 | 58 | 320 | 5 | 103 | 0 | 433 |
+| 30d | 2026-08-13 | 5 | 18 | 3 | 0 | 0 | 23 |
+| last60d | 2026-07-14 | 10 | 37 | 5 | 2 | 0 | 48 |
+| 90d | 2026-06-14 | 14 | 52 | 5 | 4 | 0 | 68 |
+| last180d | 2026-03-16 | 27 | 110 | 5 | 15 | 0 | 140 |
+| 360d | 2025-09-17 | 39 | 197 | 5 | 50 | 0 | 243 |
+| last720d | 2024-09-22 | 58 | 320 | 5 | 103 | 0 | 433 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for virtualenv lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:11:47Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T04:34:15Z._
