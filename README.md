@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `21.7.9` (2026-09-09)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-14
 - **Assets in release**: 1
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 100 · **Merged PRs**: 1352 · **Open PRs**: 6 · **Closed issues**: 1429 · **Open issues**: 0 · **Commits**: 1254
+- **Releases**: 100 · **Merged PRs**: 1353 · **Open PRs**: 6 · **Closed issues**: 1429 · **Open issues**: 0 · **Commits**: 1255
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 5 | 17 | 4 | 0 | 0 | 19 |
-| last60d | 2026-07-16 | 10 | 35 | 6 | 2 | 0 | 42 |
-| 90d | 2026-06-16 | 14 | 50 | 6 | 3 | 0 | 64 |
-| last180d | 2026-03-18 | 27 | 110 | 6 | 15 | 0 | 138 |
-| 360d | 2025-09-19 | 39 | 197 | 6 | 50 | 0 | 243 |
-| last720d | 2024-09-24 | 58 | 318 | 6 | 102 | 0 | 431 |
+| 30d | 2026-08-16 | 5 | 18 | 4 | 0 | 0 | 20 |
+| last60d | 2026-07-17 | 10 | 36 | 6 | 2 | 0 | 43 |
+| 90d | 2026-06-17 | 13 | 50 | 6 | 3 | 0 | 65 |
+| last180d | 2026-03-19 | 27 | 111 | 6 | 15 | 0 | 139 |
+| 360d | 2025-09-20 | 39 | 198 | 6 | 50 | 0 | 244 |
+| last720d | 2024-09-25 | 58 | 319 | 6 | 102 | 0 | 432 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for virtualenv lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:09:03Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:04:59Z._
