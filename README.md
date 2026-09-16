@@ -14,15 +14,15 @@ x install virtualenv
 
 ## Code insight
 
-Total: **16,954** lines of code across **183** files in the top 5 languages.
+Total: **17,049** lines of code across **183** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 11,734 | 340 | 2,885 | 154 |
-| ReStructuredText | 3,674 | 0 | 1,449 | 18 |
+| Python | 11,806 | 346 | 2,893 | 154 |
+| ReStructuredText | 3,690 | 0 | 1,452 | 18 |
 | Json | 502 | 0 | 0 | 8 |
 | Toml | 429 | 1 | 22 | 2 |
-| PowerShell | 132 | 50 | 31 | 1 |
+| PowerShell | 121 | 51 | 31 | 1 |
 
 ## OpenSSF Scorecard
 
@@ -42,34 +42,34 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `21.7.9` (2026-09-09)
-- **Last commit**: 2026-09-14
+- **Latest**: `21.7.10` (2026-09-15)
+- **Last commit**: 2026-09-15
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 5,044 · **Forks**: 1,115 · **Open issues**: 1,429 · **Contributors**: 210
+- **Stars**: 5,044 · **Forks**: 1,115 · **Open issues**: 1,429 · **Contributors**: 211
 
 ## Totals (cumulative)
 
-- **Releases**: 100 · **Merged PRs**: 1353 · **Open PRs**: 6 · **Closed issues**: 1429 · **Open issues**: 0 · **Commits**: 1255
+- **Releases**: 101 · **Merged PRs**: 1357 · **Open PRs**: 2 · **Closed issues**: 1429 · **Open issues**: 0 · **Commits**: 1260
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 5 | 18 | 4 | 0 | 0 | 20 |
-| last60d | 2026-07-17 | 10 | 36 | 6 | 2 | 0 | 43 |
-| 90d | 2026-06-17 | 13 | 50 | 6 | 3 | 0 | 65 |
-| last180d | 2026-03-19 | 27 | 111 | 6 | 15 | 0 | 139 |
-| 360d | 2025-09-20 | 39 | 198 | 6 | 50 | 0 | 244 |
-| last720d | 2024-09-25 | 58 | 319 | 6 | 102 | 0 | 432 |
+| 30d | 2026-08-17 | 6 | 21 | 0 | 0 | 0 | 25 |
+| last60d | 2026-07-18 | 11 | 40 | 2 | 2 | 0 | 48 |
+| 90d | 2026-06-18 | 14 | 54 | 2 | 3 | 0 | 70 |
+| last180d | 2026-03-20 | 28 | 115 | 2 | 15 | 0 | 144 |
+| 360d | 2025-09-21 | 40 | 202 | 2 | 50 | 0 | 249 |
+| last720d | 2024-09-26 | 59 | 323 | 2 | 101 | 0 | 437 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [virtualenv.pyz](https://github.com/pypa/virtualenv/releases/download/21.7.9/virtualenv.pyz) | 7.8 MiB | `other` |
+| [virtualenv.pyz](https://github.com/pypa/virtualenv/releases/download/21.7.10/virtualenv.pyz) | 7.8 MiB | `other` |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for virtualenv lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:04:59Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T04:56:00Z._
