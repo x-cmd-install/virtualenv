@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/pypa/virtualenv/releases/385156015",
-  "assets_url": "https://api.github.com/repos/pypa/virtualenv/releases/385156015/assets",
-  "upload_url": "https://uploads.github.com/repos/pypa/virtualenv/releases/385156015/assets{?name,label}",
-  "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.7.9",
-  "id": 385156015,
+  "url": "https://api.github.com/repos/pypa/virtualenv/releases/389542657",
+  "assets_url": "https://api.github.com/repos/pypa/virtualenv/releases/389542657/assets",
+  "upload_url": "https://uploads.github.com/repos/pypa/virtualenv/releases/389542657/assets{?name,label}",
+  "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.7.10",
+  "id": 389542657,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOABYSSs4W9QOv",
-  "tag_name": "21.7.9",
+  "node_id": "RE_kwDOABYSSs4XN_MB",
+  "tag_name": "21.7.10",
   "target_commitish": "main",
-  "name": "21.7.9",
+  "name": "21.7.10",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-09T01:01:38Z",
-  "updated_at": "2026-09-09T01:03:32Z",
-  "published_at": "2026-09-09T01:03:32Z",
+  "created_at": "2026-09-15T23:34:49Z",
+  "updated_at": "2026-09-15T23:36:11Z",
+  "published_at": "2026-09-15T23:36:11Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/551686451",
-      "id": 551686451,
-      "node_id": "RA_kwDOABYSSs4g4hEz",
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/566724614",
+      "id": 566724614,
+      "node_id": "RA_kwDOABYSSs4hx4gG",
       "name": "virtualenv.pyz",
       "label": "",
       "uploader": {
@@ -65,16 +65,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 8218502,
-      "digest": "sha256:7f8a0975ef0283458e8f2e43dc1ec2d0645c84fb9080d5a069bde0eeb45a0850",
-      "download_count": 20,
-      "created_at": "2026-09-09T01:03:31Z",
-      "updated_at": "2026-09-09T01:03:31Z",
-      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.7.9/virtualenv.pyz"
+      "size": 8219494,
+      "digest": "sha256:06ee4ea84517e9b8565f7ee81c064d2de5e83dad3874d2babd7b94b2b40c4595",
+      "download_count": 2,
+      "created_at": "2026-09-15T23:36:10Z",
+      "updated_at": "2026-09-15T23:36:10Z",
+      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.7.10/virtualenv.pyz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/pypa/virtualenv/tarball/21.7.9",
-  "zipball_url": "https://api.github.com/repos/pypa/virtualenv/zipball/21.7.9",
-  "body": "<!-- Release notes generated using configuration in .github/release.yaml at 21.7.9 -->\n\n## What's Changed\n* fix(test): EncodingWarning: 'encoding' argument not specified by @even-even in https://github.com/pypa/virtualenv/pull/3228\n* 🐛 fix(config): ignore a config file that fails to parse instead of crashing by @darrenhuai in https://github.com/pypa/virtualenv/pull/3230\n* 🐛 fix(util): replace a stale symlink instead of writing through it by @darrenhuai in https://github.com/pypa/virtualenv/pull/3229\n\n\n**Full Changelog**: https://github.com/pypa/virtualenv/compare/21.7.8...21.7.9",
-  "mentions_count": 2
+  "tarball_url": "https://api.github.com/repos/pypa/virtualenv/tarball/21.7.10",
+  "zipball_url": "https://api.github.com/repos/pypa/virtualenv/zipball/21.7.10",
+  "body": "<!-- Release notes generated using configuration in .github/release.yaml at 21.7.10 -->\n\n## What's Changed\n* 🔧 chore: check spelling with typos in pre-commit by @even-even in https://github.com/pypa/virtualenv/pull/3235\n* 🐛 fix(activation): keep and restore the user's TCL_LIBRARY and TK_LIBRARY by @darrenhuai in https://github.com/pypa/virtualenv/pull/3234\n* 🐛 fix(create): skip blank and comment lines in pyvenv.cfg by @r3wretrhy in https://github.com/pypa/virtualenv/pull/3232\n* 🐛 fix(activation): restore PKG_CONFIG_PATH that was not set before by @darrenhuai in https://github.com/pypa/virtualenv/pull/3233\n\n## New Contributors\n* @r3wretrhy made their first contribution in https://github.com/pypa/virtualenv/pull/3232\n\n**Full Changelog**: https://github.com/pypa/virtualenv/compare/21.7.9...21.7.10",
+  "mentions_count": 3
 }
