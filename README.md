@@ -14,11 +14,11 @@ x install virtualenv
 
 ## Code insight
 
-Total: **18,548** lines of code across **194** files in the top 5 languages.
+Total: **18,554** lines of code across **194** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 13,087 | 411 | 3,159 | 165 |
+| Python | 13,093 | 411 | 3,159 | 165 |
 | ReStructuredText | 3,804 | 0 | 1,492 | 17 |
 | Json | 502 | 0 | 0 | 8 |
 | Toml | 481 | 5 | 24 | 3 |
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,050 · **Forks**: 1,116 · **Open issues**: 1,432 · **Contributors**: 211
+- **Stars**: 5,052 · **Forks**: 1,116 · **Open issues**: 1,432 · **Contributors**: 211
 
 ## Totals (cumulative)
 
-- **Releases**: 109 · **Merged PRs**: 1388 · **Open PRs**: 2 · **Closed issues**: 1432 · **Open issues**: 0 · **Commits**: 1300
+- **Releases**: 109 · **Merged PRs**: 1389 · **Open PRs**: 2 · **Closed issues**: 1432 · **Open issues**: 0 · **Commits**: 1301
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 14 | 49 | 0 | 3 | 0 | 59 |
-| last60d | 2026-07-22 | 18 | 69 | 1 | 5 | 0 | 85 |
-| 90d | 2026-06-22 | 22 | 84 | 2 | 6 | 0 | 108 |
-| last180d | 2026-03-24 | 36 | 144 | 2 | 18 | 0 | 181 |
-| 360d | 2025-09-25 | 48 | 233 | 2 | 53 | 0 | 289 |
-| last720d | 2024-09-30 | 66 | 350 | 2 | 103 | 0 | 474 |
+| 30d | 2026-08-22 | 14 | 49 | 0 | 3 | 0 | 60 |
+| last60d | 2026-07-23 | 18 | 70 | 1 | 5 | 0 | 86 |
+| 90d | 2026-06-23 | 22 | 85 | 2 | 6 | 0 | 109 |
+| last180d | 2026-03-25 | 36 | 145 | 2 | 18 | 0 | 182 |
+| 360d | 2025-09-26 | 48 | 234 | 2 | 53 | 0 | 290 |
+| last720d | 2024-10-01 | 66 | 351 | 2 | 103 | 0 | 475 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for virtualenv lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:05:04Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T04:57:15Z._
