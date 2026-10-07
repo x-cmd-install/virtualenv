@@ -26,11 +26,11 @@ Total: **22,694** lines of code across **213** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **8.9 / 10**
+Overall score: **8.8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 5/25 approved changesets -- score normalized to 2
+- **Code-Review** (1/10) — Found 4/24 approved changesets -- score normalized to 1
 
 ## Source
 
@@ -41,7 +41,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `21.14.5` (2026-10-02)
-- **Last commit**: 2026-10-05
+- **Last commit**: 2026-10-06
 - **Assets in release**: 5
 
 ## Popularity
@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 122 · **Merged PRs**: 1489 · **Open PRs**: 1 · **Closed issues**: 1437 · **Open issues**: 0 · **Commits**: 1417
+- **Releases**: 122 · **Merged PRs**: 1490 · **Open PRs**: 1 · **Closed issues**: 1437 · **Open issues**: 0 · **Commits**: 1418
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 23 | 137 | 1 | 8 | 0 | 0 |
-| last60d | 2026-08-07 | 30 | 159 | 1 | 8 | 0 | 0 |
-| 90d | 2026-07-08 | 33 | 178 | 1 | 10 | 0 | 0 |
-| last180d | 2026-04-09 | 49 | 233 | 1 | 20 | 0 | 0 |
-| 360d | 2025-10-11 | 57 | 325 | 1 | 54 | 0 | 0 |
-| last720d | 2024-10-16 | 79 | 447 | 1 | 105 | 0 | 587 |
+| 30d | 2026-09-07 | 23 | 137 | 1 | 8 | 0 | 164 |
+| last60d | 2026-08-08 | 29 | 159 | 1 | 8 | 0 | 189 |
+| 90d | 2026-07-09 | 33 | 179 | 1 | 10 | 0 | 214 |
+| last180d | 2026-04-10 | 48 | 234 | 1 | 20 | 0 | 285 |
+| 360d | 2025-10-12 | 57 | 325 | 1 | 54 | 0 | 392 |
+| last720d | 2024-10-17 | 79 | 447 | 1 | 105 | 0 | 588 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for virtualenv lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:28:48Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T05:59:33Z._
