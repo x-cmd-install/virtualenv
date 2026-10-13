@@ -30,7 +30,7 @@ Overall score: **8.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 4/25 approved changesets -- score normalized to 1
+- **Code-Review** (1/10) — Found 4/24 approved changesets -- score normalized to 1
 
 ## Source
 
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,054 · **Forks**: 1,126 · **Open issues**: 1,437 · **Contributors**: 216
+- **Stars**: 5,054 · **Forks**: 1,125 · **Open issues**: 1,437 · **Contributors**: 216
 
 ## Totals (cumulative)
 
-- **Releases**: 124 · **Merged PRs**: 1501 · **Open PRs**: 0 · **Closed issues**: 1437 · **Open issues**: 0 · **Commits**: 1431
+- **Releases**: 124 · **Merged PRs**: 1502 · **Open PRs**: 0 · **Closed issues**: 1437 · **Open issues**: 0 · **Commits**: 1432
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 24 | 144 | 0 | 8 | 0 | 158 |
-| last60d | 2026-08-13 | 29 | 166 | 0 | 8 | 0 | 198 |
-| 90d | 2026-07-14 | 34 | 186 | 0 | 10 | 0 | 223 |
-| last180d | 2026-04-15 | 47 | 236 | 0 | 20 | 0 | 287 |
-| 360d | 2025-10-17 | 59 | 335 | 0 | 52 | 0 | 405 |
-| last720d | 2024-10-22 | 79 | 456 | 0 | 103 | 0 | 595 |
+| 30d | 2026-09-13 | 24 | 145 | 0 | 8 | 0 | 159 |
+| last60d | 2026-08-14 | 29 | 167 | 0 | 8 | 0 | 199 |
+| 90d | 2026-07-15 | 34 | 185 | 0 | 10 | 0 | 224 |
+| last180d | 2026-04-16 | 47 | 237 | 0 | 20 | 0 | 288 |
+| 360d | 2025-10-18 | 59 | 336 | 0 | 51 | 0 | 406 |
+| last720d | 2024-10-23 | 79 | 457 | 0 | 103 | 0 | 596 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for virtualenv lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T05:57:22Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T06:54:45Z._
