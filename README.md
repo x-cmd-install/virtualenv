@@ -30,7 +30,7 @@ Overall score: **8.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 4/24 approved changesets -- score normalized to 1
+- **Code-Review** (1/10) — Found 3/23 approved changesets -- score normalized to 1
 
 ## Source
 
@@ -41,27 +41,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `21.14.7` (2026-10-12)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-10-14
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 5,054 · **Forks**: 1,125 · **Open issues**: 1,437 · **Contributors**: 216
+- **Stars**: 5,053 · **Forks**: 1,126 · **Open issues**: 1,437 · **Contributors**: 216
 
 ## Totals (cumulative)
 
-- **Releases**: 124 · **Merged PRs**: 1502 · **Open PRs**: 0 · **Closed issues**: 1437 · **Open issues**: 0 · **Commits**: 1432
+- **Releases**: 124 · **Merged PRs**: 1504 · **Open PRs**: 0 · **Closed issues**: 1437 · **Open issues**: 0 · **Commits**: 1434
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 24 | 144 | 0 | 8 | 0 | 159 |
-| last60d | 2026-08-15 | 29 | 166 | 0 | 8 | 0 | 199 |
-| 90d | 2026-07-16 | 34 | 185 | 0 | 10 | 0 | 224 |
-| last180d | 2026-04-17 | 47 | 235 | 0 | 20 | 0 | 288 |
-| 360d | 2025-10-19 | 59 | 336 | 0 | 51 | 0 | 406 |
-| last720d | 2024-10-24 | 79 | 457 | 0 | 103 | 0 | 596 |
+| 30d | 2026-09-15 | 24 | 146 | 0 | 8 | 0 | 161 |
+| last60d | 2026-08-16 | 29 | 168 | 0 | 8 | 0 | 201 |
+| 90d | 2026-07-17 | 34 | 187 | 0 | 10 | 0 | 226 |
+| last180d | 2026-04-18 | 47 | 237 | 0 | 20 | 0 | 290 |
+| 360d | 2025-10-20 | 59 | 338 | 0 | 51 | 0 | 408 |
+| last720d | 2024-10-25 | 79 | 459 | 0 | 103 | 0 | 598 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for virtualenv lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T04:53:25Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:38:06Z._
