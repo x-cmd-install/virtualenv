@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1448851,
       "digest": "sha256:cfe6595673972a23963ec889385c148f79df82d60fcbb40c8bb6b4219a0b2af8",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-16T00:09:14Z",
       "updated_at": "2026-10-16T00:09:15Z",
       "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.14.8/virtualenv.cdx.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 11646822,
       "digest": "sha256:342dd7d3888837d4ab884e4d7ed1d5ffd77c6cbe37629c40383e247863a1ca59",
-      "download_count": 2,
+      "download_count": 6,
       "created_at": "2026-10-16T00:09:14Z",
       "updated_at": "2026-10-16T00:09:15Z",
       "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.14.8/virtualenv.pyz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1702165,
       "digest": "sha256:e1886e02fbf443cc26f9345050914d9a5e3284575b591dbecfe441e31ced26b8",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-10-16T00:09:14Z",
       "updated_at": "2026-10-16T00:09:15Z",
       "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.14.8/virtualenv.pyz.cdx.json"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 10499,
       "digest": "sha256:fd41e7757b39639e6f23fb28eaf5bd57a691aa7cd4b9f2d15b3ede3e0ea0b734",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-10-16T00:09:14Z",
       "updated_at": "2026-10-16T00:09:15Z",
       "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.14.8/virtualenv.pyz.intoto.jsonl"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 90326,
       "digest": "sha256:3fc012565433db42c7d8b4e562c61ebf3b99d560cbf0e8e0b0e52789c75a21cf",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-16T00:09:14Z",
       "updated_at": "2026-10-16T00:09:15Z",
       "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.14.8/virtualenv.spdx.json"
