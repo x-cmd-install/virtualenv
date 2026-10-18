@@ -14,23 +14,23 @@ x install virtualenv
 
 ## Code insight
 
-Total: **22,972** lines of code across **221** files in the top 5 languages.
+Total: **25,567** lines of code across **213** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 16,296 | 481 | 3,706 | 179 |
-| ReStructuredText | 4,782 | 0 | 1,777 | 28 |
+| Python | 18,727 | 492 | 3,999 | 179 |
+| ReStructuredText | 4,906 | 0 | 1,809 | 20 |
 | Toml | 669 | 12 | 37 | 4 |
 | Json | 537 | 0 | 0 | 9 |
-| Sh | 122 | 20 | 21 | 1 |
+| PowerShell | 146 | 51 | 31 | 1 |
 
 ## OpenSSF Scorecard
 
-Overall score: **8.7 / 10**
+Overall score: **8.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 3/24 approved changesets -- score normalized to 1
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 
 ## Source
 
@@ -40,38 +40,38 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `21.14.8` (2026-10-16)
+- **Latest**: `21.14.10` (2026-10-17)
 - **Last commit**: 2026-10-17
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 5,055 · **Forks**: 1,124 · **Open issues**: 1,437 · **Contributors**: 217
+- **Stars**: 5,054 · **Forks**: 1,125 · **Open issues**: 1,437 · **Contributors**: 217
 
 ## Totals (cumulative)
 
-- **Releases**: 125 · **Merged PRs**: 1514 · **Open PRs**: 31 · **Closed issues**: 1437 · **Open issues**: 0 · **Commits**: 1445
+- **Releases**: 127 · **Merged PRs**: 1547 · **Open PRs**: 2 · **Closed issues**: 1437 · **Open issues**: 0 · **Commits**: 1480
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 24 | 142 | 31 | 7 | 0 | 172 |
-| last60d | 2026-08-18 | 30 | 177 | 31 | 8 | 0 | 212 |
-| 90d | 2026-07-19 | 35 | 197 | 31 | 10 | 0 | 237 |
-| last180d | 2026-04-20 | 48 | 245 | 31 | 20 | 0 | 301 |
-| 360d | 2025-10-22 | 60 | 348 | 31 | 51 | 0 | 419 |
-| last720d | 2024-10-27 | 80 | 469 | 31 | 103 | 0 | 609 |
+| 30d | 2026-09-18 | 25 | 168 | 2 | 5 | 0 | 207 |
+| last60d | 2026-08-19 | 32 | 209 | 2 | 8 | 0 | 247 |
+| 90d | 2026-07-20 | 37 | 229 | 2 | 10 | 0 | 272 |
+| last180d | 2026-04-21 | 50 | 277 | 2 | 20 | 0 | 336 |
+| 360d | 2025-10-23 | 62 | 381 | 2 | 51 | 0 | 454 |
+| last720d | 2024-10-28 | 82 | 499 | 2 | 101 | 0 | 644 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [virtualenv.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.14.8/virtualenv.cdx.json) | 1.4 MiB | `other` |
-| [virtualenv.pyz](https://github.com/pypa/virtualenv/releases/download/21.14.8/virtualenv.pyz) | 11.1 MiB | `other` |
-| [virtualenv.pyz.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.14.8/virtualenv.pyz.cdx.json) | 1.6 MiB | `other` |
-| [virtualenv.pyz.intoto.jsonl](https://github.com/pypa/virtualenv/releases/download/21.14.8/virtualenv.pyz.intoto.jsonl) | 10.3 KiB | `other` |
-| [virtualenv.spdx.json](https://github.com/pypa/virtualenv/releases/download/21.14.8/virtualenv.spdx.json) | 88.2 KiB | `other` |
+| [virtualenv.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.14.10/virtualenv.cdx.json) | 1.4 MiB | `other` |
+| [virtualenv.pyz](https://github.com/pypa/virtualenv/releases/download/21.14.10/virtualenv.pyz) | 11.1 MiB | `other` |
+| [virtualenv.pyz.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.14.10/virtualenv.pyz.cdx.json) | 1.6 MiB | `other` |
+| [virtualenv.pyz.intoto.jsonl](https://github.com/pypa/virtualenv/releases/download/21.14.10/virtualenv.pyz.intoto.jsonl) | 10.3 KiB | `other` |
+| [virtualenv.spdx.json](https://github.com/pypa/virtualenv/releases/download/21.14.10/virtualenv.spdx.json) | 88.2 KiB | `other` |
 
 ## Improve this data
 
@@ -82,4 +82,4 @@ Install metadata for virtualenv lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:25:40Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:27:25Z._
