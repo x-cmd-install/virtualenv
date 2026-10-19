@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/pypa/virtualenv/releases/415960848",
-  "assets_url": "https://api.github.com/repos/pypa/virtualenv/releases/415960848/assets",
-  "upload_url": "https://uploads.github.com/repos/pypa/virtualenv/releases/415960848/assets{?name,label}",
-  "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.14.10",
-  "id": 415960848,
+  "url": "https://api.github.com/repos/pypa/virtualenv/releases/416294368",
+  "assets_url": "https://api.github.com/repos/pypa/virtualenv/releases/416294368/assets",
+  "upload_url": "https://uploads.github.com/repos/pypa/virtualenv/releases/416294368/assets{?name,label}",
+  "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.14.11",
+  "id": 416294368,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOABYSSs4Yyw8Q",
-  "tag_name": "21.14.10",
+  "node_id": "RE_kwDOABYSSs4Y0CXg",
+  "tag_name": "21.14.11",
   "target_commitish": "main",
-  "name": "21.14.10",
+  "name": "21.14.11",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-10-17T17:29:58Z",
-  "updated_at": "2026-10-17T17:32:00Z",
-  "published_at": "2026-10-17T17:32:00Z",
+  "created_at": "2026-10-18T07:04:39Z",
+  "updated_at": "2026-10-18T19:14:16Z",
+  "published_at": "2026-10-18T07:06:41Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/651111508",
-      "id": 651111508,
-      "node_id": "RA_kwDOABYSSs4mzyxU",
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/652759258",
+      "id": 652759258,
+      "node_id": "RA_kwDOABYSSs4m6FDa",
       "name": "virtualenv.cdx.json",
       "label": "",
       "uploader": {
@@ -66,16 +66,16 @@
       "content_type": "application/json",
       "state": "uploaded",
       "size": 1448861,
-      "digest": "sha256:8dd024e06c74d96e54b496df5d477bf0863e0346d3b8fa07a9c3b8f5a53856e4",
-      "download_count": 2,
-      "created_at": "2026-10-17T17:31:59Z",
-      "updated_at": "2026-10-17T17:31:59Z",
-      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.14.10/virtualenv.cdx.json"
+      "digest": "sha256:37f0ee6b5d9944bb3aa23060ff43e0a39e7447183a9934ed3bcfddc9e0f23b88",
+      "download_count": 3,
+      "created_at": "2026-10-18T07:06:40Z",
+      "updated_at": "2026-10-18T07:06:40Z",
+      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.14.11/virtualenv.cdx.json"
     },
     {
-      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/651111510",
-      "id": 651111510,
-      "node_id": "RA_kwDOABYSSs4mzyxW",
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/652759257",
+      "id": 652759257,
+      "node_id": "RA_kwDOABYSSs4m6FDZ",
       "name": "virtualenv.pyz",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 11671331,
-      "digest": "sha256:1fbfe243ac32d2f0a5fda353d0bed5aa34670ce1105660629cc5bcbebabbdf51",
-      "download_count": 4,
-      "created_at": "2026-10-17T17:31:59Z",
-      "updated_at": "2026-10-17T17:32:00Z",
-      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.14.10/virtualenv.pyz"
+      "size": 11674065,
+      "digest": "sha256:98ac9189aaadfbed7f4f3e2d5a146688bd7230ffef2122419d83f71a7ffbbd41",
+      "download_count": 16,
+      "created_at": "2026-10-18T07:06:40Z",
+      "updated_at": "2026-10-18T07:06:40Z",
+      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.14.11/virtualenv.pyz"
     },
     {
-      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/651111512",
-      "id": 651111512,
-      "node_id": "RA_kwDOABYSSs4mzyxY",
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/652759260",
+      "id": 652759260,
+      "node_id": "RA_kwDOABYSSs4m6FDc",
       "name": "virtualenv.pyz.cdx.json",
       "label": "",
       "uploader": {
@@ -138,16 +138,16 @@
       "content_type": "application/json",
       "state": "uploaded",
       "size": 1702308,
-      "digest": "sha256:9888b9c135892b8d6a925f6d54caf2d4401ea525250eca26379ab2fe36bc419e",
+      "digest": "sha256:6da6bc5802e7eda50e6a58e4e6885480e7bcd5dae2279b3effcdf51743631dde",
       "download_count": 2,
-      "created_at": "2026-10-17T17:31:59Z",
-      "updated_at": "2026-10-17T17:31:59Z",
-      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.14.10/virtualenv.pyz.cdx.json"
+      "created_at": "2026-10-18T07:06:40Z",
+      "updated_at": "2026-10-18T07:06:40Z",
+      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.14.11/virtualenv.pyz.cdx.json"
     },
     {
-      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/651111513",
-      "id": 651111513,
-      "node_id": "RA_kwDOABYSSs4mzyxZ",
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/652759254",
+      "id": 652759254,
+      "node_id": "RA_kwDOABYSSs4m6FDW",
       "name": "virtualenv.pyz.intoto.jsonl",
       "label": "",
       "uploader": {
@@ -173,17 +173,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 10527,
-      "digest": "sha256:34f9cf98c615f223952675e13f5b003d0f7de8469cd057ee84f97fd79c2c99d4",
+      "size": 10774,
+      "digest": "sha256:e557933cdbde7c22ab40a3d0e7e86da766d95c887abefec6efdc5255a19f3bda",
       "download_count": 3,
-      "created_at": "2026-10-17T17:31:59Z",
-      "updated_at": "2026-10-17T17:31:59Z",
-      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.14.10/virtualenv.pyz.intoto.jsonl"
+      "created_at": "2026-10-18T07:06:39Z",
+      "updated_at": "2026-10-18T07:06:40Z",
+      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.14.11/virtualenv.pyz.intoto.jsonl"
     },
     {
-      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/651111514",
-      "id": 651111514,
-      "node_id": "RA_kwDOABYSSs4mzyxa",
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/652759256",
+      "id": 652759256,
+      "node_id": "RA_kwDOABYSSs4m6FDY",
       "name": "virtualenv.spdx.json",
       "label": "",
       "uploader": {
@@ -210,15 +210,14 @@
       "content_type": "application/json",
       "state": "uploaded",
       "size": 90358,
-      "digest": "sha256:ee1dfd970339502d9ea2d3f632f9e915c064dadba765f34752e405a1b0de3bb3",
+      "digest": "sha256:178fa20958a9d656d92ab5192a6b5c64eedf1fbebd8c61cb58cd62e547b404f4",
       "download_count": 2,
-      "created_at": "2026-10-17T17:31:59Z",
-      "updated_at": "2026-10-17T17:31:59Z",
-      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.14.10/virtualenv.spdx.json"
+      "created_at": "2026-10-18T07:06:40Z",
+      "updated_at": "2026-10-18T07:06:40Z",
+      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.14.11/virtualenv.spdx.json"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/pypa/virtualenv/tarball/21.14.10",
-  "zipball_url": "https://api.github.com/repos/pypa/virtualenv/zipball/21.14.10",
-  "body": "<!-- Release notes generated using configuration in .github/release.yaml at 21.14.10 -->\n\n## What's Changed\n* 🐛 fix(seed): copy from temporary app-data by @gaborbernat in https://github.com/pypa/virtualenv/pull/3437\n* 🐛 fix(test): exclude broken pytest-mock by @gaborbernat in https://github.com/pypa/virtualenv/pull/3438\n\n\n**Full Changelog**: https://github.com/pypa/virtualenv/compare/21.14.9...21.14.10",
-  "mentions_count": 1
+  "tarball_url": "https://api.github.com/repos/pypa/virtualenv/tarball/21.14.11",
+  "zipball_url": "https://api.github.com/repos/pypa/virtualenv/zipball/21.14.11",
+  "body": "Bugfixes - 21.14.11\n===================\n\n- Search all directories supplied by repeated `--extra-search-dir` options instead of keeping only the last group.\n  (#3440)\n- On Windows, the app data is now migrated into the nested cache directory instead of the migration failing with a\n  warning on every run. (#3441)\n\n[PyPI release](https://pypi.org/project/virtualenv/21.14.11/)\n\n**Full Changelog**: https://github.com/pypa/virtualenv/compare/21.14.10...21.14.11\n"
 }
