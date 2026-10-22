@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 12473850,
       "digest": "sha256:a847cd82b5e3043cd11b0492c47525104c18be7c8a7ff3abf83e15dcd5a4a89d",
-      "download_count": 3,
+      "download_count": 14,
       "created_at": "2026-10-21T01:58:57Z",
       "updated_at": "2026-10-21T01:58:57Z",
       "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.14.12/virtualenv.pyz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 10398,
       "digest": "sha256:7473cbc663086e23b21d14ccf2a62724f4e5cf3aa41ff23c5497a1f6ea536cb1",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-21T01:58:57Z",
       "updated_at": "2026-10-21T01:58:57Z",
       "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.14.12/virtualenv.pyz.intoto.jsonl"
