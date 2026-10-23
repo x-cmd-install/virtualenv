@@ -14,15 +14,15 @@ x install virtualenv
 
 ## Code insight
 
-Total: **25,812** lines of code across **213** files in the top 5 languages.
+Total: **26,400** lines of code across **218** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 18,936 | 494 | 4,038 | 179 |
-| ReStructuredText | 4,929 | 0 | 1,821 | 20 |
-| Toml | 682 | 12 | 39 | 4 |
-| Json | 537 | 0 | 0 | 9 |
-| PowerShell | 146 | 51 | 31 | 1 |
+| Python | 19,440 | 510 | 4,123 | 183 |
+| ReStructuredText | 4,944 | 0 | 1,826 | 20 |
+| Toml | 689 | 13 | 39 | 4 |
+| Json | 554 | 0 | 0 | 9 |
+| Sh | 178 | 24 | 24 | 2 |
 
 ## OpenSSF Scorecard
 
@@ -41,38 +41,38 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `21.14.12` (2026-10-21)
-- **Last commit**: 2026-10-21
+- **Latest**: `21.14.13` (2026-10-22)
+- **Last commit**: 2026-10-22
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 5,055 · **Forks**: 1,129 · **Open issues**: 1,439 · **Contributors**: 219
+- **Stars**: 5,055 · **Forks**: 1,130 · **Open issues**: 1,440 · **Contributors**: 219
 
 ## Totals (cumulative)
 
-- **Releases**: 293 · **Merged PRs**: 1563 · **Open PRs**: 5 · **Closed issues**: 1437 · **Open issues**: 2 · **Commits**: 1498
+- **Releases**: 294 · **Merged PRs**: 1565 · **Open PRs**: 7 · **Closed issues**: 1437 · **Open issues**: 3 · **Commits**: 1501
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 21 | 143 | 5 | 3 | 2 | 152 |
-| last60d | 2026-08-23 | 35 | 221 | 5 | 8 | 2 | 257 |
-| 90d | 2026-07-24 | 39 | 243 | 5 | 10 | 2 | 285 |
-| last180d | 2026-04-25 | 53 | 292 | 5 | 20 | 2 | 348 |
-| 360d | 2025-10-27 | 65 | 397 | 5 | 49 | 2 | 469 |
-| last720d | 2024-11-01 | 84 | 514 | 5 | 101 | 2 | 655 |
+| 30d | 2026-09-23 | 20 | 138 | 7 | 2 | 3 | 155 |
+| last60d | 2026-08-24 | 36 | 222 | 7 | 8 | 3 | 260 |
+| 90d | 2026-07-25 | 40 | 245 | 7 | 10 | 3 | 288 |
+| last180d | 2026-04-26 | 54 | 294 | 7 | 20 | 3 | 351 |
+| 360d | 2025-10-28 | 66 | 398 | 7 | 49 | 3 | 472 |
+| last720d | 2024-11-02 | 85 | 516 | 7 | 100 | 3 | 658 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [virtualenv.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.14.12/virtualenv.cdx.json) | 1.4 MiB | `other` |
-| [virtualenv.pyz](https://github.com/pypa/virtualenv/releases/download/21.14.12/virtualenv.pyz) | 11.9 MiB | `other` |
-| [virtualenv.pyz.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.14.12/virtualenv.pyz.cdx.json) | 1.7 MiB | `other` |
-| [virtualenv.pyz.intoto.jsonl](https://github.com/pypa/virtualenv/releases/download/21.14.12/virtualenv.pyz.intoto.jsonl) | 10.2 KiB | `other` |
-| [virtualenv.spdx.json](https://github.com/pypa/virtualenv/releases/download/21.14.12/virtualenv.spdx.json) | 88.2 KiB | `other` |
+| [virtualenv.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.14.13/virtualenv.cdx.json) | 1.4 MiB | `other` |
+| [virtualenv.pyz](https://github.com/pypa/virtualenv/releases/download/21.14.13/virtualenv.pyz) | 11.9 MiB | `other` |
+| [virtualenv.pyz.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.14.13/virtualenv.pyz.cdx.json) | 1.7 MiB | `other` |
+| [virtualenv.pyz.intoto.jsonl](https://github.com/pypa/virtualenv/releases/download/21.14.13/virtualenv.pyz.intoto.jsonl) | 10.2 KiB | `other` |
+| [virtualenv.spdx.json](https://github.com/pypa/virtualenv/releases/download/21.14.13/virtualenv.spdx.json) | 88.2 KiB | `other` |
 
 ## Improve this data
 
@@ -83,4 +83,4 @@ Install metadata for virtualenv lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:44:41Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:56:13Z._
