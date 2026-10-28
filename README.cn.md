@@ -14,24 +14,25 @@ x install virtualenv
 
 ## 代码洞察
 
-合计: **26,400** 行代码（覆盖前 5 种语言、共 **218** 个文件）。
+合计: **31,878** 行代码（覆盖前 5 种语言、共 **220** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 19,440 | 510 | 4,123 | 183 |
-| ReStructuredText | 4,944 | 0 | 1,826 | 20 |
-| Toml | 689 | 13 | 39 | 4 |
+| Python | 19,701 | 515 | 4,187 | 185 |
+| ReStructuredText | 5,449 | 0 | 2,398 | 19 |
+| Toml | 5,401 | 13 | 1,047 | 5 |
 | Json | 554 | 0 | 0 | 9 |
 | Sh | 178 | 24 | 24 | 2 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **8.1 / 10**
+总评分: **7.7 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 2/22 approved changesets -- score normalized to 0
-- **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
+- **Code-Review** (2/10) — Found 8/27 approved changesets -- score normalized to 2
+- **Vulnerabilities** (0/10) — 11 existing vulnerabilities detected
+- **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
 
 ## 源代码
 
@@ -41,38 +42,38 @@ x install virtualenv
 
 ## 发布
 
-- **最新版本**: `21.14.13` (2026-10-22)
-- **最近提交**: 2026-10-22
+- **最新版本**: `21.15.1` (2026-10-28)
+- **最近提交**: 2026-10-28
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 5,058 · **Fork**: 1,129 · **开放 issue**: 1,440 · **贡献者**: 219
+- **Star**: 5,059 · **Fork**: 1,130 · **开放 issue**: 1,441 · **贡献者**: 222
 
 ## 累计统计
 
-- **发布数**: 294 · **已合并 PR**: 1565 · **开放 PR**: 10 · **已关闭 issue**: 1437 · **开放 issue**: 3 · **提交数**: 1501
+- **发布数**: 296 · **已合并 PR**: 1587 · **开放 PR**: 3 · **已关闭 issue**: 1440 · **开放 issue**: 1 · **提交数**: 1525
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 15 | 103 | 10 | 0 | 3 | 97 |
-| last60d | 2026-08-28 | 35 | 218 | 10 | 8 | 3 | 251 |
-| 90d | 2026-07-29 | 40 | 240 | 10 | 9 | 3 | 281 |
-| last180d | 2026-04-30 | 53 | 292 | 10 | 18 | 3 | 349 |
-| 360d | 2025-11-01 | 65 | 397 | 10 | 49 | 3 | 471 |
-| last720d | 2024-11-06 | 85 | 515 | 10 | 100 | 3 | 658 |
+| 30d | 2026-09-28 | 17 | 121 | 3 | 3 | 1 | 121 |
+| last60d | 2026-08-29 | 35 | 239 | 3 | 11 | 1 | 275 |
+| 90d | 2026-07-30 | 42 | 260 | 3 | 12 | 1 | 305 |
+| last180d | 2026-05-01 | 55 | 313 | 3 | 21 | 1 | 373 |
+| 360d | 2025-11-02 | 67 | 418 | 3 | 52 | 1 | 495 |
+| last720d | 2024-11-07 | 87 | 534 | 3 | 103 | 1 | 682 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [virtualenv.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.14.13/virtualenv.cdx.json) | 1.4 MiB | `other` |
-| [virtualenv.pyz](https://github.com/pypa/virtualenv/releases/download/21.14.13/virtualenv.pyz) | 11.9 MiB | `other` |
-| [virtualenv.pyz.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.14.13/virtualenv.pyz.cdx.json) | 1.7 MiB | `other` |
-| [virtualenv.pyz.intoto.jsonl](https://github.com/pypa/virtualenv/releases/download/21.14.13/virtualenv.pyz.intoto.jsonl) | 10.2 KiB | `other` |
-| [virtualenv.spdx.json](https://github.com/pypa/virtualenv/releases/download/21.14.13/virtualenv.spdx.json) | 88.2 KiB | `other` |
+| [virtualenv.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.1/virtualenv.cdx.json) | 1.4 MiB | `other` |
+| [virtualenv.pyz](https://github.com/pypa/virtualenv/releases/download/21.15.1/virtualenv.pyz) | 13.3 MiB | `other` |
+| [virtualenv.pyz.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.1/virtualenv.pyz.cdx.json) | 2.2 MiB | `other` |
+| [virtualenv.pyz.intoto.jsonl](https://github.com/pypa/virtualenv/releases/download/21.15.1/virtualenv.pyz.intoto.jsonl) | 10.3 KiB | `other` |
+| [virtualenv.spdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.1/virtualenv.spdx.json) | 89.2 KiB | `other` |
 
 ## 改进这些数据
 
@@ -83,4 +84,4 @@ virtualenv 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T05:02:25Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T05:41:06Z._
