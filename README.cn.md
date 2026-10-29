@@ -14,23 +14,23 @@ x install virtualenv
 
 ## 代码洞察
 
-合计: **31,878** 行代码（覆盖前 5 种语言、共 **220** 个文件）。
+合计: **32,069** 行代码（覆盖前 5 种语言、共 **223** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 19,701 | 515 | 4,187 | 185 |
-| ReStructuredText | 5,449 | 0 | 2,398 | 19 |
+| Python | 19,884 | 520 | 4,213 | 185 |
+| ReStructuredText | 5,458 | 0 | 2,398 | 22 |
 | Toml | 5,401 | 13 | 1,047 | 5 |
 | Json | 554 | 0 | 0 | 9 |
 | Sh | 178 | 24 | 24 | 2 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.7 / 10**
+总评分: **7.8 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 8/27 approved changesets -- score normalized to 2
+- **Code-Review** (3/10) — Found 10/28 approved changesets -- score normalized to 3
 - **Vulnerabilities** (0/10) — 11 existing vulnerabilities detected
 - **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
 
@@ -52,18 +52,18 @@ x install virtualenv
 
 ## 累计统计
 
-- **发布数**: 296 · **已合并 PR**: 1587 · **开放 PR**: 3 · **已关闭 issue**: 1440 · **开放 issue**: 1 · **提交数**: 1525
+- **发布数**: 296 · **已合并 PR**: 1591 · **开放 PR**: 0 · **已关闭 issue**: 1441 · **开放 issue**: 0 · **提交数**: 1529
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 17 | 121 | 3 | 3 | 1 | 121 |
-| last60d | 2026-08-29 | 35 | 239 | 3 | 11 | 1 | 275 |
-| 90d | 2026-07-30 | 42 | 260 | 3 | 12 | 1 | 305 |
-| last180d | 2026-05-01 | 55 | 313 | 3 | 21 | 1 | 373 |
-| 360d | 2025-11-02 | 67 | 418 | 3 | 52 | 1 | 495 |
-| last720d | 2024-11-07 | 87 | 534 | 3 | 103 | 1 | 682 |
+| 30d | 2026-09-29 | 17 | 117 | 0 | 4 | 0 | 125 |
+| last60d | 2026-08-30 | 35 | 243 | 0 | 12 | 0 | 279 |
+| 90d | 2026-07-31 | 41 | 264 | 0 | 13 | 0 | 309 |
+| last180d | 2026-05-02 | 55 | 317 | 0 | 22 | 0 | 377 |
+| 360d | 2025-11-03 | 67 | 421 | 0 | 53 | 0 | 499 |
+| last720d | 2024-11-08 | 87 | 538 | 0 | 104 | 0 | 683 |
 
 ## Release 资产
 
@@ -84,4 +84,4 @@ virtualenv 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261028.yml` · 2026-10-28T05:41:06Z._
+_数据快照: `data/card/261029.yml` · 2026-10-29T05:56:04Z._
