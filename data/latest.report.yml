@@ -7,7 +7,7 @@ about:
   latestVersion: "21.15.1"
   latestRelease: "21.15.1"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T05:55:52Z
+  collectedAt: 2026-10-30T05:56:38Z
 timeline:
   created: 2011-03-06
   lastCommit: 2026-10-28
@@ -17,10 +17,10 @@ timeline:
 popularity:
   star: 5059
   watcher: 160
-  fork: 1130
+  fork: 1131
   release: 296
   contributor: 222
-  pullRequest: 2000
+  pullRequest: 2004
   issue: 1441
 language:
   Python: 920263
@@ -34,63 +34,63 @@ language:
 totalBytes: 957673
 recent:
   last30d:
-    since: 2026-09-29
-    release: 17
-    mergedPR: 117
-    openPR: 0
+    since: 2026-09-30
+    release: 15
+    mergedPR: 116
+    openPR: 4
     closedIssue: 4
     openIssue: 0
     commit: 125
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 35
-    mergedPR: 243
-    openPR: 0
+    mergedPR: 242
+    openPR: 4
     closedIssue: 12
     openIssue: 0
     commit: 279
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 41
     mergedPR: 264
-    openPR: 0
+    openPR: 4
     closedIssue: 13
     openIssue: 0
     commit: 309
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 55
     mergedPR: 317
-    openPR: 0
-    closedIssue: 22
+    openPR: 4
+    closedIssue: 21
     openIssue: 0
     commit: 377
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 67
     mergedPR: 421
-    openPR: 0
+    openPR: 4
     closedIssue: 53
     openIssue: 0
     commit: 499
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 87
     mergedPR: 538
-    openPR: 0
+    openPR: 4
     closedIssue: 104
     openIssue: 0
     commit: 683
 total:
   release: 296
   mergedPR: 1591
-  openPR: 0
+  openPR: 4
   closedIssue: 1441
   openIssue: 0
   commit: 1529
 ---
 path: /home/runner/.x-repo/github.com/pypa/virtualenv
-collectedAt: 2026-10-29T05:55:59Z
+collectedAt: 2026-10-30T05:56:46Z
 loc:
   Python:
     code: 19884
@@ -357,4 +357,4 @@ checks:
     details:
       - 'Info: found contributions from: 3DprintFIT, CTPUG, DataExpert-io-Community, EpicGames, Google-Developer-Groups-on-Campus-HKU, LinuxDays, PyCQA, admesh, anthonywritescode, archipelago ai, asottile-archive, betamaxpy, bloomberg lp, cvut, deadsnakes, devassistant, fedora-python, freexian debian ubuntu, hku, ibid, jaseci-labs, jupyterlab, numpy, pre-commit, pre-commit-ci, pyldap, pypy, pytest-dev, python-organizers, pyvec, quansight labs, red hat fit ctu, sass, sclorg, shellcheck-py, slic3r, tox-dev, triplea-game'
 ---
-{"id":426159304,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOABYSSs4ZZqzI","tag_name":"21.15.1","target_commitish":"d46a1e2c1516a3ed316a608d7ef3a54d5dd8b2cc","name":"21.15.1","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-10-28T01:11:02Z","updated_at":"2026-10-28T01:13:34Z","published_at":"2026-10-28T01:13:34Z","assets":[{"id":683407885,"node_id":"RA_kwDOABYSSs4ou_oN","name":"virtualenv.cdx.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":1468344,"digest":"sha256:c077fcb69a826b9d18e0e8cc6f8475c4ab041ac1d9de32e867669684928b0b92","download_count":1,"created_at":"2026-10-28T01:13:27Z","updated_at":"2026-10-28T01:13:28Z"},{"id":683407912,"node_id":"RA_kwDOABYSSs4ou_oo","name":"virtualenv.pyz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":13997063,"digest":"sha256:2cff607ba1a838c432a7ce642fc4a965fe333b9408303529cc465e912f8a697a","download_count":6,"created_at":"2026-10-28T01:13:28Z","updated_at":"2026-10-28T01:13:30Z"},{"id":683407958,"node_id":"RA_kwDOABYSSs4ou_pW","name":"virtualenv.pyz.cdx.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":2309522,"digest":"sha256:a700381f3da2b8ff16fb8386876633592214a8d8dc532cd5f50d72524721a366","download_count":1,"created_at":"2026-10-28T01:13:30Z","updated_at":"2026-10-28T01:13:31Z"},{"id":683407989,"node_id":"RA_kwDOABYSSs4ou_p1","name":"virtualenv.pyz.intoto.jsonl","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":10570,"digest":"sha256:3ac6ba477f8eb56c5d2d59961e54b8deda75da4b436f8b69fc3beb5b7c2c35c8","download_count":4,"created_at":"2026-10-28T01:13:32Z","updated_at":"2026-10-28T01:13:32Z"},{"id":683408020,"node_id":"RA_kwDOABYSSs4ou_qU","name":"virtualenv.spdx.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":91303,"digest":"sha256:b0d7f0083cf796e5724bcc25b5f185aea87548d8acf8d255ed8cd41fd156326b","download_count":1,"created_at":"2026-10-28T01:13:33Z","updated_at":"2026-10-28T01:13:33Z"}],"body":"<a name=\"release-21-15-1-fixed\"></a>\n\n### Bug fixes\n\n- Keep the name of a seeded `console_scripts` entry that contains digits but does not end in a version, such as `python3-config` or `2to3`, instead of truncating it at the first digit; `python3-config` overwrote the environment's `python` executable ([#3451](https://github.com/pypa/virtualenv/pull/3451)) by @JingHao-Leon and @gaborbernat.\n- Copy the content of a symlinked directory when a tree is copied into an environment, instead of dropping it ([#3454](https://github.com/pypa/virtualenv/pull/3454)) by @JingHao-Leon and @gaborbernat.\n- Count each `-v`, `-q`, `-p` and `--try-first-with` option once instead of once per internal parsing pass, so `Session.verbosity` is 3 rather than 9 for a single `-v` ([#3457](https://github.com/pypa/virtualenv/pull/3457)) by @darrenhuai and @gaborbernat.\n- Copy the seed packages instead of failing when `VIRTUALENV_SYMLINK_APP_DATA` or `symlink_app_data` in the config file turns on symlink seeding on a host that cannot create symlinks, such as Windows without the symlink privilege ([#3465](https://github.com/pypa/virtualenv/pull/3465)) by @darrenhuai and @gaborbernat.\n- Run the interpreter that collects the target debug information (`-vv` output and `Creator.debug`) without `PYTHONPATH` and with the environment passed to `cli_run`, so the reported `sys.path` no longer lists the caller's `PYTHONPATH` entries ([#3474](https://github.com/pypa/virtualenv/pull/3474)) by @RaphaelFakhri and @gaborbernat.\n\n### New Contributors\n\n- @JingHao-Leon made their first contribution in https://github.com/pypa/virtualenv/pull/3454\n- @RaphaelFakhri made their first contribution in https://github.com/pypa/virtualenv/pull/3474\n- @FliegendeWurst made their first contribution in https://github.com/pypa/virtualenv/pull/3468\n\n[PyPI release](https://pypi.org/project/virtualenv/21.15.1/)\n\n[Full Changelog](https://github.com/pypa/virtualenv/compare/21.15.0...21.15.1)\n","mentions_count":5}
+{"id":426159304,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOABYSSs4ZZqzI","tag_name":"21.15.1","target_commitish":"d46a1e2c1516a3ed316a608d7ef3a54d5dd8b2cc","name":"21.15.1","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-10-28T01:11:02Z","updated_at":"2026-10-28T01:13:34Z","published_at":"2026-10-28T01:13:34Z","assets":[{"id":683407885,"node_id":"RA_kwDOABYSSs4ou_oN","name":"virtualenv.cdx.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":1468344,"digest":"sha256:c077fcb69a826b9d18e0e8cc6f8475c4ab041ac1d9de32e867669684928b0b92","download_count":1,"created_at":"2026-10-28T01:13:27Z","updated_at":"2026-10-28T01:13:28Z"},{"id":683407912,"node_id":"RA_kwDOABYSSs4ou_oo","name":"virtualenv.pyz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":13997063,"digest":"sha256:2cff607ba1a838c432a7ce642fc4a965fe333b9408303529cc465e912f8a697a","download_count":16,"created_at":"2026-10-28T01:13:28Z","updated_at":"2026-10-28T01:13:30Z"},{"id":683407958,"node_id":"RA_kwDOABYSSs4ou_pW","name":"virtualenv.pyz.cdx.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":2309522,"digest":"sha256:a700381f3da2b8ff16fb8386876633592214a8d8dc532cd5f50d72524721a366","download_count":2,"created_at":"2026-10-28T01:13:30Z","updated_at":"2026-10-28T01:13:31Z"},{"id":683407989,"node_id":"RA_kwDOABYSSs4ou_p1","name":"virtualenv.pyz.intoto.jsonl","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":10570,"digest":"sha256:3ac6ba477f8eb56c5d2d59961e54b8deda75da4b436f8b69fc3beb5b7c2c35c8","download_count":6,"created_at":"2026-10-28T01:13:32Z","updated_at":"2026-10-28T01:13:32Z"},{"id":683408020,"node_id":"RA_kwDOABYSSs4ou_qU","name":"virtualenv.spdx.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":91303,"digest":"sha256:b0d7f0083cf796e5724bcc25b5f185aea87548d8acf8d255ed8cd41fd156326b","download_count":1,"created_at":"2026-10-28T01:13:33Z","updated_at":"2026-10-28T01:13:33Z"}],"body":"<a name=\"release-21-15-1-fixed\"></a>\n\n### Bug fixes\n\n- Keep the name of a seeded `console_scripts` entry that contains digits but does not end in a version, such as `python3-config` or `2to3`, instead of truncating it at the first digit; `python3-config` overwrote the environment's `python` executable ([#3451](https://github.com/pypa/virtualenv/pull/3451)) by @JingHao-Leon and @gaborbernat.\n- Copy the content of a symlinked directory when a tree is copied into an environment, instead of dropping it ([#3454](https://github.com/pypa/virtualenv/pull/3454)) by @JingHao-Leon and @gaborbernat.\n- Count each `-v`, `-q`, `-p` and `--try-first-with` option once instead of once per internal parsing pass, so `Session.verbosity` is 3 rather than 9 for a single `-v` ([#3457](https://github.com/pypa/virtualenv/pull/3457)) by @darrenhuai and @gaborbernat.\n- Copy the seed packages instead of failing when `VIRTUALENV_SYMLINK_APP_DATA` or `symlink_app_data` in the config file turns on symlink seeding on a host that cannot create symlinks, such as Windows without the symlink privilege ([#3465](https://github.com/pypa/virtualenv/pull/3465)) by @darrenhuai and @gaborbernat.\n- Run the interpreter that collects the target debug information (`-vv` output and `Creator.debug`) without `PYTHONPATH` and with the environment passed to `cli_run`, so the reported `sys.path` no longer lists the caller's `PYTHONPATH` entries ([#3474](https://github.com/pypa/virtualenv/pull/3474)) by @RaphaelFakhri and @gaborbernat.\n\n### New Contributors\n\n- @JingHao-Leon made their first contribution in https://github.com/pypa/virtualenv/pull/3454\n- @RaphaelFakhri made their first contribution in https://github.com/pypa/virtualenv/pull/3474\n- @FliegendeWurst made their first contribution in https://github.com/pypa/virtualenv/pull/3468\n\n[PyPI release](https://pypi.org/project/virtualenv/21.15.1/)\n\n[Full Changelog](https://github.com/pypa/virtualenv/compare/21.15.0...21.15.1)\n","mentions_count":5}
