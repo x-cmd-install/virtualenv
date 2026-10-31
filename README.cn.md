@@ -14,24 +14,24 @@ x install virtualenv
 
 ## 代码洞察
 
-合计: **32,069** 行代码（覆盖前 5 种语言、共 **223** 个文件）。
+合计: **32,216** 行代码（覆盖前 5 种语言、共 **220** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 19,884 | 520 | 4,213 | 185 |
-| ReStructuredText | 5,458 | 0 | 2,398 | 22 |
+| Python | 20,001 | 527 | 4,233 | 185 |
+| ReStructuredText | 5,483 | 0 | 2,404 | 19 |
 | Toml | 5,401 | 13 | 1,047 | 5 |
 | Json | 554 | 0 | 0 | 9 |
 | Sh | 178 | 24 | 24 | 2 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.8 / 10**
+总评分: **7.9 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 10/28 approved changesets -- score normalized to 3
-- **Vulnerabilities** (0/10) — 11 existing vulnerabilities detected
+- **Code-Review** (4/10) — Found 14/29 approved changesets -- score normalized to 4
+- **Vulnerabilities** (0/10) — 21 existing vulnerabilities detected
 - **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
 
 ## 源代码
@@ -42,38 +42,38 @@ x install virtualenv
 
 ## 发布
 
-- **最新版本**: `21.15.1` (2026-10-28)
-- **最近提交**: 2026-10-28
+- **最新版本**: `21.15.2` (2026-10-30)
+- **最近提交**: 2026-10-30
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 5,059 · **Fork**: 1,131 · **开放 issue**: 1,441 · **贡献者**: 222
+- **Star**: 5,062 · **Fork**: 1,132 · **开放 issue**: 1,441 · **贡献者**: 222
 
 ## 累计统计
 
-- **发布数**: 296 · **已合并 PR**: 1591 · **开放 PR**: 4 · **已关闭 issue**: 1441 · **开放 issue**: 0 · **提交数**: 1529
+- **发布数**: 297 · **已合并 PR**: 1595 · **开放 PR**: 0 · **已关闭 issue**: 1441 · **开放 issue**: 0 · **提交数**: 1534
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 15 | 116 | 4 | 4 | 0 | 125 |
-| last60d | 2026-08-31 | 35 | 242 | 4 | 12 | 0 | 279 |
-| 90d | 2026-08-01 | 41 | 264 | 4 | 13 | 0 | 309 |
-| last180d | 2026-05-03 | 55 | 317 | 4 | 21 | 0 | 377 |
-| 360d | 2025-11-04 | 67 | 421 | 4 | 53 | 0 | 499 |
-| last720d | 2024-11-09 | 87 | 538 | 4 | 104 | 0 | 683 |
+| 30d | 2026-10-01 | 16 | 114 | 0 | 4 | 0 | 130 |
+| last60d | 2026-09-01 | 36 | 244 | 0 | 12 | 0 | 284 |
+| 90d | 2026-08-02 | 42 | 268 | 0 | 13 | 0 | 314 |
+| last180d | 2026-05-04 | 56 | 320 | 0 | 21 | 0 | 382 |
+| 360d | 2025-11-05 | 68 | 425 | 0 | 53 | 0 | 504 |
+| last720d | 2024-11-10 | 88 | 542 | 0 | 104 | 0 | 688 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [virtualenv.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.1/virtualenv.cdx.json) | 1.4 MiB | `other` |
-| [virtualenv.pyz](https://github.com/pypa/virtualenv/releases/download/21.15.1/virtualenv.pyz) | 13.3 MiB | `other` |
-| [virtualenv.pyz.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.1/virtualenv.pyz.cdx.json) | 2.2 MiB | `other` |
-| [virtualenv.pyz.intoto.jsonl](https://github.com/pypa/virtualenv/releases/download/21.15.1/virtualenv.pyz.intoto.jsonl) | 10.3 KiB | `other` |
-| [virtualenv.spdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.1/virtualenv.spdx.json) | 89.2 KiB | `other` |
+| [virtualenv.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.2/virtualenv.cdx.json) | 1.4 MiB | `other` |
+| [virtualenv.pyz](https://github.com/pypa/virtualenv/releases/download/21.15.2/virtualenv.pyz) | 13.4 MiB | `other` |
+| [virtualenv.pyz.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.2/virtualenv.pyz.cdx.json) | 2.2 MiB | `other` |
+| [virtualenv.pyz.intoto.jsonl](https://github.com/pypa/virtualenv/releases/download/21.15.2/virtualenv.pyz.intoto.jsonl) | 10.5 KiB | `other` |
+| [virtualenv.spdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.2/virtualenv.spdx.json) | 89.2 KiB | `other` |
 
 ## 改进这些数据
 
@@ -84,4 +84,4 @@ virtualenv 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261030.yml` · 2026-10-30T05:56:51Z._
+_数据快照: `data/card/261031.yml` · 2026-10-31T05:33:46Z._
