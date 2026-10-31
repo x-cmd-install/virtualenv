@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/pypa/virtualenv/releases/426159304",
-  "assets_url": "https://api.github.com/repos/pypa/virtualenv/releases/426159304/assets",
-  "upload_url": "https://uploads.github.com/repos/pypa/virtualenv/releases/426159304/assets{?name,label}",
-  "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.15.1",
-  "id": 426159304,
+  "url": "https://api.github.com/repos/pypa/virtualenv/releases/429403312",
+  "assets_url": "https://api.github.com/repos/pypa/virtualenv/releases/429403312/assets",
+  "upload_url": "https://uploads.github.com/repos/pypa/virtualenv/releases/429403312/assets{?name,label}",
+  "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.15.2",
+  "id": 429403312,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOABYSSs4ZZqzI",
-  "tag_name": "21.15.1",
-  "target_commitish": "d46a1e2c1516a3ed316a608d7ef3a54d5dd8b2cc",
-  "name": "21.15.1",
+  "node_id": "RE_kwDOABYSSs4ZmCyw",
+  "tag_name": "21.15.2",
+  "target_commitish": "53c21ee86895b320d99b6260c2610ecefc8b78b7",
+  "name": "21.15.2",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-10-28T01:11:02Z",
-  "updated_at": "2026-10-28T01:13:34Z",
-  "published_at": "2026-10-28T01:13:34Z",
+  "created_at": "2026-10-30T19:15:05Z",
+  "updated_at": "2026-10-30T19:18:43Z",
+  "published_at": "2026-10-30T19:18:43Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/683407885",
-      "id": 683407885,
-      "node_id": "RA_kwDOABYSSs4ou_oN",
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/693153678",
+      "id": 693153678,
+      "node_id": "RA_kwDOABYSSs4pUK-O",
       "name": "virtualenv.cdx.json",
       "label": "",
       "uploader": {
@@ -66,16 +66,16 @@
       "content_type": "application/json",
       "state": "uploaded",
       "size": 1468344,
-      "digest": "sha256:c077fcb69a826b9d18e0e8cc6f8475c4ab041ac1d9de32e867669684928b0b92",
-      "download_count": 1,
-      "created_at": "2026-10-28T01:13:27Z",
-      "updated_at": "2026-10-28T01:13:28Z",
-      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.15.1/virtualenv.cdx.json"
+      "digest": "sha256:cbbc8b393fe873383118e5024f8602d00296ca57658ea666c1e87b99be51e730",
+      "download_count": 2,
+      "created_at": "2026-10-30T19:18:37Z",
+      "updated_at": "2026-10-30T19:18:37Z",
+      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.15.2/virtualenv.cdx.json"
     },
     {
-      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/683407912",
-      "id": 683407912,
-      "node_id": "RA_kwDOABYSSs4ou_oo",
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/693153711",
+      "id": 693153711,
+      "node_id": "RA_kwDOABYSSs4pUK-v",
       "name": "virtualenv.pyz",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 13997063,
-      "digest": "sha256:2cff607ba1a838c432a7ce642fc4a965fe333b9408303529cc465e912f8a697a",
-      "download_count": 16,
-      "created_at": "2026-10-28T01:13:28Z",
-      "updated_at": "2026-10-28T01:13:30Z",
-      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.15.1/virtualenv.pyz"
+      "size": 13998878,
+      "digest": "sha256:b2f9c52080eff314a8043f284cfb8286d92ddcdf72648af85d906e84d7cd9636",
+      "download_count": 1,
+      "created_at": "2026-10-30T19:18:38Z",
+      "updated_at": "2026-10-30T19:18:39Z",
+      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.15.2/virtualenv.pyz"
     },
     {
-      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/683407958",
-      "id": 683407958,
-      "node_id": "RA_kwDOABYSSs4ou_pW",
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/693153784",
+      "id": 693153784,
+      "node_id": "RA_kwDOABYSSs4pUK_4",
       "name": "virtualenv.pyz.cdx.json",
       "label": "",
       "uploader": {
@@ -138,16 +138,16 @@
       "content_type": "application/json",
       "state": "uploaded",
       "size": 2309522,
-      "digest": "sha256:a700381f3da2b8ff16fb8386876633592214a8d8dc532cd5f50d72524721a366",
-      "download_count": 2,
-      "created_at": "2026-10-28T01:13:30Z",
-      "updated_at": "2026-10-28T01:13:31Z",
-      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.15.1/virtualenv.pyz.cdx.json"
+      "digest": "sha256:608fd3c1fd17e8512c53ecda92afe9d2739edb1085f78c1eea8afa854c2934f7",
+      "download_count": 1,
+      "created_at": "2026-10-30T19:18:39Z",
+      "updated_at": "2026-10-30T19:18:40Z",
+      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.15.2/virtualenv.pyz.cdx.json"
     },
     {
-      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/683407989",
-      "id": 683407989,
-      "node_id": "RA_kwDOABYSSs4ou_p1",
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/693153824",
+      "id": 693153824,
+      "node_id": "RA_kwDOABYSSs4pULAg",
       "name": "virtualenv.pyz.intoto.jsonl",
       "label": "",
       "uploader": {
@@ -173,17 +173,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 10570,
-      "digest": "sha256:3ac6ba477f8eb56c5d2d59961e54b8deda75da4b436f8b69fc3beb5b7c2c35c8",
-      "download_count": 6,
-      "created_at": "2026-10-28T01:13:32Z",
-      "updated_at": "2026-10-28T01:13:32Z",
-      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.15.1/virtualenv.pyz.intoto.jsonl"
+      "size": 10770,
+      "digest": "sha256:76c58a3ae1df36064f47f98cf3a676443f4c8a38551e8ba2db255c3fbb0820f1",
+      "download_count": 1,
+      "created_at": "2026-10-30T19:18:41Z",
+      "updated_at": "2026-10-30T19:18:41Z",
+      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.15.2/virtualenv.pyz.intoto.jsonl"
     },
     {
-      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/683408020",
-      "id": 683408020,
-      "node_id": "RA_kwDOABYSSs4ou_qU",
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/693153859",
+      "id": 693153859,
+      "node_id": "RA_kwDOABYSSs4pULBD",
       "name": "virtualenv.spdx.json",
       "label": "",
       "uploader": {
@@ -210,15 +210,15 @@
       "content_type": "application/json",
       "state": "uploaded",
       "size": 91303,
-      "digest": "sha256:b0d7f0083cf796e5724bcc25b5f185aea87548d8acf8d255ed8cd41fd156326b",
+      "digest": "sha256:35b2914530688fed66cd2f5f8b49fac7e45a87f8fc5ad83693c858d1e92e320c",
       "download_count": 1,
-      "created_at": "2026-10-28T01:13:33Z",
-      "updated_at": "2026-10-28T01:13:33Z",
-      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.15.1/virtualenv.spdx.json"
+      "created_at": "2026-10-30T19:18:42Z",
+      "updated_at": "2026-10-30T19:18:42Z",
+      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.15.2/virtualenv.spdx.json"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/pypa/virtualenv/tarball/21.15.1",
-  "zipball_url": "https://api.github.com/repos/pypa/virtualenv/zipball/21.15.1",
-  "body": "<a name=\"release-21-15-1-fixed\"></a>\n\n### Bug fixes\n\n- Keep the name of a seeded `console_scripts` entry that contains digits but does not end in a version, such as `python3-config` or `2to3`, instead of truncating it at the first digit; `python3-config` overwrote the environment's `python` executable ([#3451](https://github.com/pypa/virtualenv/pull/3451)) by @JingHao-Leon and @gaborbernat.\n- Copy the content of a symlinked directory when a tree is copied into an environment, instead of dropping it ([#3454](https://github.com/pypa/virtualenv/pull/3454)) by @JingHao-Leon and @gaborbernat.\n- Count each `-v`, `-q`, `-p` and `--try-first-with` option once instead of once per internal parsing pass, so `Session.verbosity` is 3 rather than 9 for a single `-v` ([#3457](https://github.com/pypa/virtualenv/pull/3457)) by @darrenhuai and @gaborbernat.\n- Copy the seed packages instead of failing when `VIRTUALENV_SYMLINK_APP_DATA` or `symlink_app_data` in the config file turns on symlink seeding on a host that cannot create symlinks, such as Windows without the symlink privilege ([#3465](https://github.com/pypa/virtualenv/pull/3465)) by @darrenhuai and @gaborbernat.\n- Run the interpreter that collects the target debug information (`-vv` output and `Creator.debug`) without `PYTHONPATH` and with the environment passed to `cli_run`, so the reported `sys.path` no longer lists the caller's `PYTHONPATH` entries ([#3474](https://github.com/pypa/virtualenv/pull/3474)) by @RaphaelFakhri and @gaborbernat.\n\n### New Contributors\n\n- @JingHao-Leon made their first contribution in https://github.com/pypa/virtualenv/pull/3454\n- @RaphaelFakhri made their first contribution in https://github.com/pypa/virtualenv/pull/3474\n- @FliegendeWurst made their first contribution in https://github.com/pypa/virtualenv/pull/3468\n\n[PyPI release](https://pypi.org/project/virtualenv/21.15.1/)\n\n[Full Changelog](https://github.com/pypa/virtualenv/compare/21.15.0...21.15.1)\n",
-  "mentions_count": 5
+  "tarball_url": "https://api.github.com/repos/pypa/virtualenv/tarball/21.15.2",
+  "zipball_url": "https://api.github.com/repos/pypa/virtualenv/zipball/21.15.2",
+  "body": "<a name=\"release-21-15-2-fixed\"></a>\n\n### Bug fixes\n\n- Build the default application data folder only when no folder was given through `--app-data`, `VIRTUALENV_APP_DATA` or the configuration file, so `--read-only-app-data` with an explicit folder works when the default folder is missing, and writable runs stop creating an unused one. Folders from `VIRTUALENV_APP_DATA` and the configuration file now get the same checks as `--app-data` ([#3488](https://github.com/pypa/virtualenv/pull/3488)) by @darrenhuai and @gaborbernat.\n- Build the seed wheel image in a staging folder and move it into place only once it is complete, so an extraction that fails part way, for example on a full disk, after a killed process or on a path over the Windows length limit, no longer leaves a partial image that later runs seed as a pip without `METADATA`, `RECORD` or `INSTALLER` ([#3487](https://github.com/pypa/virtualenv/pull/3487)) by @darrenhuai and @gaborbernat.\n- Make `-p`/`--python` and `--try-first-with` replace the interpreters set by `VIRTUALENV_PYTHON`, `VIRTUALENV_TRY_FIRST_WITH` or the configuration file instead of being merged with them, so the configured interpreter no longer wins over the one asked for and a `-p` that finds nothing fails instead of falling back to it. Try several `VIRTUALENV_PYTHON` values in the order given rather than starting with the second ([#3494](https://github.com/pypa/virtualenv/pull/3494)) by @darrenhuai and @gaborbernat.\n- On Windows, re-create an environment in place when its copied interpreter files, such as `python.exe`, or its seeded packages are read-only, instead of failing with `PermissionError` ([#3492](https://github.com/pypa/virtualenv/pull/3492)) by @darrenhuai and @gaborbernat.\n- Reject an empty or whitespace-only destination. An empty one, and on Windows one made only of spaces, resolved to the current directory, so an unset `VENV` in `virtualenv --clear \"$VENV\"` deleted the working directory. Pass `.` to create the environment in the current directory ([#3491](https://github.com/pypa/virtualenv/pull/3491)) by @darrenhuai and @gaborbernat.\n- Restore the default prompt in `deactivate.bat` when `PROMPT` was undefined at activation, instead of leaving the environment name in front of it ([#3489](https://github.com/pypa/virtualenv/pull/3489)) by @darrenhuai.\n- Undefine `PATH` again in `deactivate.bat` when it was undefined at activation, instead of leaving the environment's `Scripts` folder on it, and stop a second `activate.bat` from adding that folder twice ([#3493](https://github.com/pypa/virtualenv/pull/3493)) by @darrenhuai and @gaborbernat.\n\n[PyPI release](https://pypi.org/project/virtualenv/21.15.2/)\n\n[Full Changelog](https://github.com/pypa/virtualenv/compare/21.15.1...21.15.2)\n",
+  "mentions_count": 2
 }
