@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,062 · **Forks**: 1,133 · **Open issues**: 1,441 · **Contributors**: 222
+- **Stars**: 5,062 · **Forks**: 1,134 · **Open issues**: 1,441 · **Contributors**: 222
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 14 | 107 | 0 | 4 | 0 | 130 |
-| last60d | 2026-09-02 | 35 | 244 | 0 | 12 | 0 | 284 |
-| 90d | 2026-08-03 | 42 | 267 | 0 | 13 | 0 | 314 |
-| last180d | 2026-05-05 | 56 | 318 | 0 | 21 | 0 | 382 |
-| 360d | 2025-11-06 | 68 | 425 | 0 | 53 | 0 | 504 |
-| last720d | 2024-11-11 | 88 | 541 | 0 | 104 | 0 | 688 |
+| 30d | 2026-10-03 | 12 | 107 | 0 | 4 | 0 | 113 |
+| last60d | 2026-09-03 | 35 | 242 | 0 | 12 | 0 | 281 |
+| 90d | 2026-08-04 | 42 | 267 | 0 | 13 | 0 | 308 |
+| last180d | 2026-05-06 | 55 | 318 | 0 | 21 | 0 | 377 |
+| 360d | 2025-11-07 | 68 | 425 | 0 | 53 | 0 | 503 |
+| last720d | 2024-11-12 | 88 | 541 | 0 | 104 | 0 | 688 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for virtualenv lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T05:58:03Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:10:23Z._
