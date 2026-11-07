@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/pypa/virtualenv/releases/433538801",
-  "assets_url": "https://api.github.com/repos/pypa/virtualenv/releases/433538801/assets",
-  "upload_url": "https://uploads.github.com/repos/pypa/virtualenv/releases/433538801/assets{?name,label}",
-  "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.15.5",
-  "id": 433538801,
+  "url": "https://api.github.com/repos/pypa/virtualenv/releases/436838417",
+  "assets_url": "https://api.github.com/repos/pypa/virtualenv/releases/436838417/assets",
+  "upload_url": "https://uploads.github.com/repos/pypa/virtualenv/releases/436838417/assets{?name,label}",
+  "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.15.6",
+  "id": 436838417,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOABYSSs4Z10bx",
-  "tag_name": "21.15.5",
-  "target_commitish": "9d8386cec9c0bacc7b178ba4bd16843908393ae4",
-  "name": "21.15.5",
+  "node_id": "RE_kwDOABYSSs4aCaAR",
+  "tag_name": "21.15.6",
+  "target_commitish": "9a4852e189e927f142313d18e76080eb15130bd4",
+  "name": "21.15.6",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-11-04T05:11:18Z",
-  "updated_at": "2026-11-04T05:14:14Z",
-  "published_at": "2026-11-04T05:14:14Z",
+  "created_at": "2026-11-06T18:15:17Z",
+  "updated_at": "2026-11-06T18:18:23Z",
+  "published_at": "2026-11-06T18:18:23Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/708324482",
-      "id": 708324482,
-      "node_id": "RA_kwDOABYSSs4qOCyC",
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/718095902",
+      "id": 718095902,
+      "node_id": "RA_kwDOABYSSs4qzUYe",
       "name": "virtualenv.cdx.json",
       "label": "",
       "uploader": {
@@ -66,16 +66,16 @@
       "content_type": "application/json",
       "state": "uploaded",
       "size": 1488036,
-      "digest": "sha256:fff68b9fd4fe45c330851ae5fc810a85522366bdb44c77243c2ecb7d44745916",
-      "download_count": 1,
-      "created_at": "2026-11-04T05:14:06Z",
-      "updated_at": "2026-11-04T05:14:06Z",
-      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.15.5/virtualenv.cdx.json"
+      "digest": "sha256:b85e99b5db3fe720359fc1c1ca531d9483593e9617e69a673c9573471ac7d0b6",
+      "download_count": 2,
+      "created_at": "2026-11-06T18:18:14Z",
+      "updated_at": "2026-11-06T18:18:14Z",
+      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.15.6/virtualenv.cdx.json"
     },
     {
-      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/708324528",
-      "id": 708324528,
-      "node_id": "RA_kwDOABYSSs4qOCyw",
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/718095982",
+      "id": 718095982,
+      "node_id": "RA_kwDOABYSSs4qzUZu",
       "name": "virtualenv.pyz",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 14155277,
-      "digest": "sha256:5363ec270906e8fce9fb6700012b6a243454bebe932013e4ee24ead97e504d11",
-      "download_count": 8,
-      "created_at": "2026-11-04T05:14:07Z",
-      "updated_at": "2026-11-04T05:14:08Z",
-      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.15.5/virtualenv.pyz"
+      "size": 14156183,
+      "digest": "sha256:596fdc9d21af010ac7570eafa144f6f4d4ff1c06f308ed0ca4fcd77e7595f077",
+      "download_count": 6,
+      "created_at": "2026-11-06T18:18:16Z",
+      "updated_at": "2026-11-06T18:18:17Z",
+      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.15.6/virtualenv.pyz"
     },
     {
-      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/708324622",
-      "id": 708324622,
-      "node_id": "RA_kwDOABYSSs4qOC0O",
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/718096061",
+      "id": 718096061,
+      "node_id": "RA_kwDOABYSSs4qzUa9",
       "name": "virtualenv.pyz.cdx.json",
       "label": "",
       "uploader": {
@@ -138,16 +138,16 @@
       "content_type": "application/json",
       "state": "uploaded",
       "size": 2313469,
-      "digest": "sha256:26d66490ed835b620319320b3ceab7fef5469e94708321706635cd20f798228e",
-      "download_count": 1,
-      "created_at": "2026-11-04T05:14:09Z",
-      "updated_at": "2026-11-04T05:14:10Z",
-      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.15.5/virtualenv.pyz.cdx.json"
+      "digest": "sha256:62d57f87232c2c86b54db79b781897c520b652d98db1b9e146b316e6a129684a",
+      "download_count": 2,
+      "created_at": "2026-11-06T18:18:18Z",
+      "updated_at": "2026-11-06T18:18:18Z",
+      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.15.6/virtualenv.pyz.cdx.json"
     },
     {
-      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/708324694",
-      "id": 708324694,
-      "node_id": "RA_kwDOABYSSs4qOC1W",
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/718096140",
+      "id": 718096140,
+      "node_id": "RA_kwDOABYSSs4qzUcM",
       "name": "virtualenv.pyz.intoto.jsonl",
       "label": "",
       "uploader": {
@@ -173,17 +173,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 10339,
-      "digest": "sha256:88c105b1b3cd7c83fdf5e0d5525304b4f7c2fea3bd9f8e855c216ec4344673b5",
-      "download_count": 1,
-      "created_at": "2026-11-04T05:14:11Z",
-      "updated_at": "2026-11-04T05:14:11Z",
-      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.15.5/virtualenv.pyz.intoto.jsonl"
+      "size": 10676,
+      "digest": "sha256:0b614e9ffa661a92c7766883e753b18a31bb252df4caebae676954eb7f36179b",
+      "download_count": 3,
+      "created_at": "2026-11-06T18:18:20Z",
+      "updated_at": "2026-11-06T18:18:20Z",
+      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.15.6/virtualenv.pyz.intoto.jsonl"
     },
     {
-      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/708324762",
-      "id": 708324762,
-      "node_id": "RA_kwDOABYSSs4qOC2a",
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases/assets/718096204",
+      "id": 718096204,
+      "node_id": "RA_kwDOABYSSs4qzUdM",
       "name": "virtualenv.spdx.json",
       "label": "",
       "uploader": {
@@ -210,14 +210,15 @@
       "content_type": "application/json",
       "state": "uploaded",
       "size": 91113,
-      "digest": "sha256:7716f0213493f86dbf34682f1dd4288b2e5b311ddab0810c845bef9d3c94d7ca",
-      "download_count": 1,
-      "created_at": "2026-11-04T05:14:13Z",
-      "updated_at": "2026-11-04T05:14:13Z",
-      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.15.5/virtualenv.spdx.json"
+      "digest": "sha256:62cd6c14efbf367096a93c3e693d9ae3d72b5a870ddf46cc1eb749ede90397bf",
+      "download_count": 2,
+      "created_at": "2026-11-06T18:18:21Z",
+      "updated_at": "2026-11-06T18:18:21Z",
+      "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.15.6/virtualenv.spdx.json"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/pypa/virtualenv/tarball/21.15.5",
-  "zipball_url": "https://api.github.com/repos/pypa/virtualenv/zipball/21.15.5",
-  "body": "[🐍 PyPI release](https://pypi.org/project/virtualenv/21.15.5/)\n\n[📜 Full Changelog](https://github.com/pypa/virtualenv/compare/21.15.4...21.15.5)\n"
+  "tarball_url": "https://api.github.com/repos/pypa/virtualenv/tarball/21.15.6",
+  "zipball_url": "https://api.github.com/repos/pypa/virtualenv/zipball/21.15.6",
+  "body": "<a name=\"release-21-15-6-fixed\"></a>\n\n### Bug fixes\n\n- Clear inherited `PYTHONHOME` during PowerShell, Nushell, and programmatic activation so child interpreters use the environment's standard library. Preserve empty values when Bash and fish deactivate ([#3517](https://github.com/pypa/virtualenv/pull/3517)) by @gaborbernat.\n- Remove empty `PATH` entries during programmatic activation, including entries in an otherwise nonempty value. On POSIX, an empty entry searches the current directory ([#3513](https://github.com/pypa/virtualenv/pull/3513)) by @qodelicious and @gaborbernat.\n- Unset `PYTHONHOME` during C shell activation and restore its original value on deactivation. An inherited value could previously prevent the environment's Python interpreter from starting ([#3514](https://github.com/pypa/virtualenv/pull/3514)) by @abhishekcpp007 and @gaborbernat.\n\n### New Contributors\n\n- @abhishekcpp007 made their first contribution in https://github.com/pypa/virtualenv/pull/3514\n\n[🐍 PyPI release](https://pypi.org/project/virtualenv/21.15.6/)\n\n[📜 Full Changelog](https://github.com/pypa/virtualenv/compare/21.15.5...21.15.6)\n",
+  "mentions_count": 3
 }
