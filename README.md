@@ -14,22 +14,23 @@ x install virtualenv
 
 ## Code insight
 
-Total: **32,292** lines of code across **220** files in the top 5 languages.
+Total: **32,567** lines of code across **220** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 20,018 | 533 | 4,239 | 185 |
-| ReStructuredText | 5,525 | 0 | 2,417 | 19 |
-| Toml | 5,372 | 13 | 1,042 | 5 |
+| Python | 20,253 | 533 | 4,271 | 185 |
+| ReStructuredText | 5,547 | 0 | 2,425 | 19 |
+| Toml | 5,372 | 14 | 1,042 | 5 |
 | Json | 596 | 0 | 0 | 9 |
 | Sh | 182 | 25 | 24 | 2 |
 
 ## OpenSSF Scorecard
 
-Overall score: **8 / 10**
+Overall score: **7.9 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (3/10) — Found 9/27 approved changesets -- score normalized to 3
 - **Vulnerabilities** (0/10) — 19 existing vulnerabilities detected
 - **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
 
@@ -41,38 +42,38 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `21.15.5` (2026-11-04)
-- **Last commit**: 2026-11-04
+- **Latest**: `21.15.6` (2026-11-06)
+- **Last commit**: 2026-11-07
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 5,063 · **Forks**: 1,136 · **Open issues**: 1,441 · **Contributors**: 224
+- **Stars**: 5,065 · **Forks**: 1,138 · **Open issues**: 1,441 · **Contributors**: 225
 
 ## Totals (cumulative)
 
-- **Releases**: 300 · **Merged PRs**: 1613 · **Open PRs**: 1 · **Closed issues**: 1441 · **Open issues**: 0 · **Commits**: 1555
+- **Releases**: 301 · **Merged PRs**: 1622 · **Open PRs**: 5 · **Closed issues**: 1441 · **Open issues**: 0 · **Commits**: 1565
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 15 | 121 | 1 | 4 | 0 | 134 |
-| last60d | 2026-09-07 | 38 | 259 | 1 | 12 | 0 | 302 |
-| 90d | 2026-08-08 | 44 | 281 | 1 | 12 | 0 | 329 |
-| last180d | 2026-05-10 | 58 | 335 | 1 | 21 | 0 | 398 |
-| 360d | 2025-11-11 | 71 | 442 | 1 | 53 | 0 | 524 |
-| last720d | 2024-11-16 | 91 | 559 | 1 | 104 | 0 | 709 |
+| 30d | 2026-10-08 | 16 | 129 | 5 | 4 | 0 | 144 |
+| last60d | 2026-09-08 | 39 | 268 | 5 | 12 | 0 | 312 |
+| 90d | 2026-08-09 | 44 | 289 | 5 | 12 | 0 | 339 |
+| last180d | 2026-05-11 | 59 | 343 | 5 | 21 | 0 | 408 |
+| 360d | 2025-11-12 | 72 | 451 | 5 | 53 | 0 | 534 |
+| last720d | 2024-11-17 | 92 | 568 | 5 | 104 | 0 | 719 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [virtualenv.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.5/virtualenv.cdx.json) | 1.4 MiB | `other` |
-| [virtualenv.pyz](https://github.com/pypa/virtualenv/releases/download/21.15.5/virtualenv.pyz) | 13.5 MiB | `other` |
-| [virtualenv.pyz.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.5/virtualenv.pyz.cdx.json) | 2.2 MiB | `other` |
-| [virtualenv.pyz.intoto.jsonl](https://github.com/pypa/virtualenv/releases/download/21.15.5/virtualenv.pyz.intoto.jsonl) | 10.1 KiB | `other` |
-| [virtualenv.spdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.5/virtualenv.spdx.json) | 89.0 KiB | `other` |
+| [virtualenv.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.6/virtualenv.cdx.json) | 1.4 MiB | `other` |
+| [virtualenv.pyz](https://github.com/pypa/virtualenv/releases/download/21.15.6/virtualenv.pyz) | 13.5 MiB | `other` |
+| [virtualenv.pyz.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.6/virtualenv.pyz.cdx.json) | 2.2 MiB | `other` |
+| [virtualenv.pyz.intoto.jsonl](https://github.com/pypa/virtualenv/releases/download/21.15.6/virtualenv.pyz.intoto.jsonl) | 10.4 KiB | `other` |
+| [virtualenv.spdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.6/virtualenv.spdx.json) | 89.0 KiB | `other` |
 
 ## Improve this data
 
@@ -83,4 +84,4 @@ Install metadata for virtualenv lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:35:30Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:57:40Z._

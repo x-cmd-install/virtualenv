@@ -14,22 +14,23 @@ x install virtualenv
 
 ## 代码洞察
 
-合计: **32,292** 行代码（覆盖前 5 种语言、共 **220** 个文件）。
+合计: **32,567** 行代码（覆盖前 5 种语言、共 **220** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 20,018 | 533 | 4,239 | 185 |
-| ReStructuredText | 5,525 | 0 | 2,417 | 19 |
-| Toml | 5,372 | 13 | 1,042 | 5 |
+| Python | 20,253 | 533 | 4,271 | 185 |
+| ReStructuredText | 5,547 | 0 | 2,425 | 19 |
+| Toml | 5,372 | 14 | 1,042 | 5 |
 | Json | 596 | 0 | 0 | 9 |
 | Sh | 182 | 25 | 24 | 2 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **8 / 10**
+总评分: **7.9 / 10**
 
 评分最低的几项:
 
+- **Code-Review** (3/10) — Found 9/27 approved changesets -- score normalized to 3
 - **Vulnerabilities** (0/10) — 19 existing vulnerabilities detected
 - **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
 
@@ -41,38 +42,38 @@ x install virtualenv
 
 ## 发布
 
-- **最新版本**: `21.15.5` (2026-11-04)
-- **最近提交**: 2026-11-04
+- **最新版本**: `21.15.6` (2026-11-06)
+- **最近提交**: 2026-11-07
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 5,063 · **Fork**: 1,136 · **开放 issue**: 1,441 · **贡献者**: 224
+- **Star**: 5,065 · **Fork**: 1,138 · **开放 issue**: 1,441 · **贡献者**: 225
 
 ## 累计统计
 
-- **发布数**: 300 · **已合并 PR**: 1613 · **开放 PR**: 1 · **已关闭 issue**: 1441 · **开放 issue**: 0 · **提交数**: 1555
+- **发布数**: 301 · **已合并 PR**: 1622 · **开放 PR**: 5 · **已关闭 issue**: 1441 · **开放 issue**: 0 · **提交数**: 1565
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 15 | 121 | 1 | 4 | 0 | 134 |
-| last60d | 2026-09-07 | 38 | 259 | 1 | 12 | 0 | 302 |
-| 90d | 2026-08-08 | 44 | 281 | 1 | 12 | 0 | 329 |
-| last180d | 2026-05-10 | 58 | 335 | 1 | 21 | 0 | 398 |
-| 360d | 2025-11-11 | 71 | 442 | 1 | 53 | 0 | 524 |
-| last720d | 2024-11-16 | 91 | 559 | 1 | 104 | 0 | 709 |
+| 30d | 2026-10-08 | 16 | 129 | 5 | 4 | 0 | 144 |
+| last60d | 2026-09-08 | 39 | 268 | 5 | 12 | 0 | 312 |
+| 90d | 2026-08-09 | 44 | 289 | 5 | 12 | 0 | 339 |
+| last180d | 2026-05-11 | 59 | 343 | 5 | 21 | 0 | 408 |
+| 360d | 2025-11-12 | 72 | 451 | 5 | 53 | 0 | 534 |
+| last720d | 2024-11-17 | 92 | 568 | 5 | 104 | 0 | 719 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [virtualenv.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.5/virtualenv.cdx.json) | 1.4 MiB | `other` |
-| [virtualenv.pyz](https://github.com/pypa/virtualenv/releases/download/21.15.5/virtualenv.pyz) | 13.5 MiB | `other` |
-| [virtualenv.pyz.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.5/virtualenv.pyz.cdx.json) | 2.2 MiB | `other` |
-| [virtualenv.pyz.intoto.jsonl](https://github.com/pypa/virtualenv/releases/download/21.15.5/virtualenv.pyz.intoto.jsonl) | 10.1 KiB | `other` |
-| [virtualenv.spdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.5/virtualenv.spdx.json) | 89.0 KiB | `other` |
+| [virtualenv.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.6/virtualenv.cdx.json) | 1.4 MiB | `other` |
+| [virtualenv.pyz](https://github.com/pypa/virtualenv/releases/download/21.15.6/virtualenv.pyz) | 13.5 MiB | `other` |
+| [virtualenv.pyz.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.6/virtualenv.pyz.cdx.json) | 2.2 MiB | `other` |
+| [virtualenv.pyz.intoto.jsonl](https://github.com/pypa/virtualenv/releases/download/21.15.6/virtualenv.pyz.intoto.jsonl) | 10.4 KiB | `other` |
+| [virtualenv.spdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.6/virtualenv.spdx.json) | 89.0 KiB | `other` |
 
 ## 改进这些数据
 
@@ -83,4 +84,4 @@ virtualenv 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261106.yml` · 2026-11-06T06:35:32Z._
+_数据快照: `data/card/261107.yml` · 2026-11-07T05:57:41Z._
