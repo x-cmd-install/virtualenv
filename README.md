@@ -14,11 +14,11 @@ x install virtualenv
 
 ## Code insight
 
-Total: **33,675** lines of code across **242** files in the top 5 languages.
+Total: **33,677** lines of code across **242** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 21,600 | 880 | 4,376 | 200 |
+| Python | 21,602 | 880 | 4,376 | 200 |
 | ReStructuredText | 5,591 | 0 | 2,436 | 26 |
 | Toml | 5,089 | 18 | 979 | 5 |
 | Json | 596 | 0 | 0 | 9 |
@@ -26,13 +26,13 @@ Total: **33,675** lines of code across **242** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.9 / 10**
+Overall score: **7.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 11/28 approved changesets -- score normalized to 3
+- **Code-Review** (2/10) — Found 8/27 approved changesets -- score normalized to 2
+- **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
 - **Vulnerabilities** (0/10) — 19 existing vulnerabilities detected
-- **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
 
 ## Source
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `21.15.6` (2026-11-06)
-- **Last commit**: 2026-11-08
+- **Last commit**: 2026-11-10
 - **Assets in release**: 5
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 301 · **Merged PRs**: 1630 · **Open PRs**: 2 · **Closed issues**: 1441 · **Open issues**: 0 · **Commits**: 1573
+- **Releases**: 301 · **Merged PRs**: 1633 · **Open PRs**: 6 · **Closed issues**: 1441 · **Open issues**: 0 · **Commits**: 1576
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 15 | 134 | 2 | 4 | 0 | 138 |
-| last60d | 2026-09-10 | 38 | 274 | 2 | 12 | 0 | 315 |
-| 90d | 2026-08-11 | 43 | 296 | 2 | 12 | 0 | 341 |
-| last180d | 2026-05-13 | 58 | 349 | 2 | 21 | 0 | 411 |
-| 360d | 2025-11-14 | 72 | 459 | 2 | 53 | 0 | 541 |
-| last720d | 2024-11-19 | 92 | 575 | 2 | 104 | 0 | 727 |
+| 30d | 2026-10-11 | 15 | 134 | 6 | 4 | 0 | 141 |
+| last60d | 2026-09-11 | 38 | 276 | 6 | 12 | 0 | 318 |
+| 90d | 2026-08-12 | 43 | 297 | 6 | 12 | 0 | 344 |
+| last180d | 2026-05-14 | 57 | 352 | 6 | 21 | 0 | 414 |
+| 360d | 2025-11-15 | 72 | 462 | 6 | 53 | 0 | 544 |
+| last720d | 2024-11-20 | 92 | 578 | 6 | 104 | 0 | 730 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for virtualenv lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:17:56Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:14:57Z._
