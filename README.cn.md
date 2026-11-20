@@ -14,23 +14,23 @@ x install virtualenv
 
 ## 代码洞察
 
-合计: **35,713** 行代码（覆盖前 5 种语言、共 **227** 个文件）。
+合计: **36,903** 行代码（覆盖前 5 种语言、共 **250** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 23,581 | 950 | 4,796 | 192 |
-| ReStructuredText | 5,699 | 0 | 2,463 | 19 |
+| Python | 24,736 | 948 | 4,956 | 192 |
+| ReStructuredText | 5,731 | 0 | 2,463 | 42 |
 | Toml | 5,023 | 13 | 966 | 5 |
 | Json | 596 | 0 | 0 | 9 |
 | Sh | 182 | 26 | 24 | 2 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.6 / 10**
+总评分: **7.7 / 10**
 
 评分最低的几项:
 
-- **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
+- **Code-Review** (2/10) — Found 7/30 approved changesets -- score normalized to 2
 - **Vulnerabilities** (0/10) — 19 existing vulnerabilities detected
 - **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
 
@@ -43,27 +43,27 @@ x install virtualenv
 ## 发布
 
 - **最新版本**: `21.15.9` (2026-11-18)
-- **最近提交**: 2026-11-18
+- **最近提交**: 2026-11-20
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 5,071 · **Fork**: 1,152 · **开放 issue**: 1,445 · **贡献者**: 234
+- **Star**: 5,070 · **Fork**: 1,151 · **开放 issue**: 1,485 · **贡献者**: 235
 
 ## 累计统计
 
-- **发布数**: 304 · **已合并 PR**: 1676 · **开放 PR**: 0 · **已关闭 issue**: 1445 · **开放 issue**: 0 · **提交数**: 1623
+- **发布数**: 304 · **已合并 PR**: 1701 · **开放 PR**: 33 · **已关闭 issue**: 1466 · **开放 issue**: 19 · **提交数**: 1649
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 12 | 111 | 0 | 6 | 0 | 122 |
-| last60d | 2026-09-20 | 33 | 285 | 0 | 13 | 0 | 285 |
-| 90d | 2026-08-21 | 46 | 335 | 0 | 16 | 0 | 386 |
-| last180d | 2026-05-23 | 60 | 393 | 0 | 24 | 0 | 461 |
-| 360d | 2025-11-24 | 75 | 503 | 0 | 56 | 0 | 590 |
-| last720d | 2024-11-29 | 93 | 613 | 0 | 107 | 0 | 766 |
+| 30d | 2026-10-21 | 12 | 131 | 33 | 27 | 19 | 148 |
+| last60d | 2026-09-21 | 32 | 302 | 33 | 34 | 19 | 311 |
+| 90d | 2026-08-22 | 46 | 358 | 33 | 37 | 19 | 412 |
+| last180d | 2026-05-24 | 60 | 417 | 33 | 45 | 19 | 487 |
+| 360d | 2025-11-25 | 75 | 526 | 33 | 77 | 19 | 616 |
+| last720d | 2024-11-30 | 93 | 637 | 33 | 128 | 19 | 792 |
 
 ## Release 资产
 
@@ -84,4 +84,4 @@ virtualenv 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261119.yml` · 2026-11-19T08:28:52Z._
+_数据快照: `data/card/261120.yml` · 2026-11-20T07:57:06Z._
