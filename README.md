@@ -14,12 +14,12 @@ x install virtualenv
 
 ## Code insight
 
-Total: **42,240** lines of code across **232** files in the top 5 languages.
+Total: **42,331** lines of code across **232** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 29,790 | 989 | 5,723 | 197 |
-| ReStructuredText | 5,966 | 0 | 2,508 | 19 |
+| Python | 29,868 | 995 | 5,727 | 197 |
+| ReStructuredText | 5,979 | 0 | 2,514 | 19 |
 | Toml | 5,023 | 13 | 966 | 5 |
 | Json | 596 | 0 | 0 | 9 |
 | Sh | 207 | 29 | 25 | 2 |
@@ -30,7 +30,7 @@ Overall score: **7.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/29 approved changesets -- score normalized to 0
 - **Vulnerabilities** (0/10) — 19 existing vulnerabilities detected
 - **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
 
@@ -42,38 +42,38 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `21.15.12` (2026-11-21)
-- **Last commit**: 2026-11-21
+- **Latest**: `21.15.13` (2026-11-23)
+- **Last commit**: 2026-11-24
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 5,068 · **Forks**: 1,151 · **Open issues**: 1,486 · **Contributors**: 235
+- **Stars**: 5,069 · **Forks**: 1,150 · **Open issues**: 1,486 · **Contributors**: 235
 
 ## Totals (cumulative)
 
-- **Releases**: 307 · **Merged PRs**: 1778 · **Open PRs**: 0 · **Closed issues**: 1486 · **Open issues**: 0 · **Commits**: 1667
+- **Releases**: 308 · **Merged PRs**: 1782 · **Open PRs**: 2 · **Closed issues**: 1486 · **Open issues**: 0 · **Commits**: 1672
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 13 | 204 | 0 | 46 | 0 | 138 |
-| last60d | 2026-09-24 | 31 | 348 | 0 | 51 | 0 | 274 |
-| 90d | 2026-08-25 | 49 | 432 | 0 | 57 | 0 | 421 |
-| last180d | 2026-05-27 | 63 | 491 | 0 | 65 | 0 | 493 |
-| 360d | 2025-11-28 | 78 | 603 | 0 | 97 | 0 | 634 |
-| last720d | 2024-12-03 | 96 | 713 | 0 | 147 | 0 | 810 |
+| 30d | 2026-10-25 | 14 | 208 | 2 | 46 | 0 | 143 |
+| last60d | 2026-09-25 | 30 | 350 | 2 | 51 | 0 | 279 |
+| 90d | 2026-08-26 | 49 | 436 | 2 | 57 | 0 | 426 |
+| last180d | 2026-05-28 | 64 | 494 | 2 | 65 | 0 | 498 |
+| 360d | 2025-11-29 | 79 | 607 | 2 | 97 | 0 | 639 |
+| last720d | 2024-12-04 | 97 | 717 | 2 | 146 | 0 | 815 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [virtualenv.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.12/virtualenv.cdx.json) | 1.6 MiB | `other` |
-| [virtualenv.pyz](https://github.com/pypa/virtualenv/releases/download/21.15.12/virtualenv.pyz) | 11.3 MiB | `other` |
-| [virtualenv.pyz.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.12/virtualenv.pyz.cdx.json) | 2.8 MiB | `other` |
-| [virtualenv.pyz.intoto.jsonl](https://github.com/pypa/virtualenv/releases/download/21.15.12/virtualenv.pyz.intoto.jsonl) | 10.1 KiB | `other` |
-| [virtualenv.spdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.12/virtualenv.spdx.json) | 134.6 KiB | `other` |
+| [virtualenv.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.13/virtualenv.cdx.json) | 1.6 MiB | `other` |
+| [virtualenv.pyz](https://github.com/pypa/virtualenv/releases/download/21.15.13/virtualenv.pyz) | 11.3 MiB | `other` |
+| [virtualenv.pyz.cdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.13/virtualenv.pyz.cdx.json) | 2.8 MiB | `other` |
+| [virtualenv.pyz.intoto.jsonl](https://github.com/pypa/virtualenv/releases/download/21.15.13/virtualenv.pyz.intoto.jsonl) | 10.2 KiB | `other` |
+| [virtualenv.spdx.json](https://github.com/pypa/virtualenv/releases/download/21.15.13/virtualenv.spdx.json) | 134.6 KiB | `other` |
 
 ## Improve this data
 
@@ -84,4 +84,4 @@ Install metadata for virtualenv lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:45:49Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:49:00Z._
