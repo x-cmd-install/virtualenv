@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 11812422,
       "digest": "sha256:526e88870734a1206c53e964a90ae9edc5eec43a126005a4ae99a70697de2684",
-      "download_count": 60,
+      "download_count": 93,
       "created_at": "2026-11-23T19:54:56Z",
       "updated_at": "2026-11-23T19:54:57Z",
       "browser_download_url": "https://github.com/pypa/virtualenv/releases/download/21.15.13/virtualenv.pyz"
