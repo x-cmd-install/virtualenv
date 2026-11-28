@@ -2,28 +2,28 @@ about:
   description: "Virtual Python Environment builder"
   license: MIT
   homepage: https://virtualenv.pypa.io
-  head: 678319b
+  head: a7a6293
   archived: false
-  latestVersion: "21.15.13"
-  latestRelease: "21.15.13"
+  latestVersion: "21.15.14"
+  latestRelease: "21.15.14"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:28:36Z
+  collectedAt: 2026-11-28T07:46:32Z
 timeline:
   created: 2011-03-06
-  lastCommit: 2026-11-24
-  lastVersion: 2026-11-23
-  lastRelease: 2026-11-23
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-27
+  lastRelease: 2026-11-27
   lastPrerelease: 
 popularity:
   star: 5069
   watcher: 160
   fork: 1151
-  release: 308
-  contributor: 235
-  pullRequest: 2237
+  release: 309
+  contributor: 236
+  pullRequest: 2239
   issue: 1488
 language:
-  Python: 1415526
+  Python: 1421132
   Shell: 20155
   PowerShell: 9427
   Xonsh: 4699
@@ -31,81 +31,81 @@ language:
   Batchfile: 3203
   Dockerfile: 2370
   C: 1135
-totalBytes: 1460035
+totalBytes: 1465641
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 13
-    mergedPR: 199
-    openPR: 2
-    closedIssue: 46
-    openIssue: 1
-    commit: 0
+    mergedPR: 202
+    openPR: 0
+    closedIssue: 47
+    openIssue: 0
+    commit: 157
   last60d:
-    since: 2026-09-28
-    release: 29
-    mergedPR: 324
-    openPR: 2
-    closedIssue: 50
-    openIssue: 1
-    commit: 0
+    since: 2026-09-29
+    release: 30
+    mergedPR: 320
+    openPR: 0
+    closedIssue: 51
+    openIssue: 0
+    commit: 293
   last90d:
-    since: 2026-08-29
-    release: 47
-    mergedPR: 442
-    openPR: 2
-    closedIssue: 58
-    openIssue: 1
-    commit: 0
+    since: 2026-08-30
+    release: 48
+    mergedPR: 446
+    openPR: 0
+    closedIssue: 59
+    openIssue: 0
+    commit: 440
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 62
-    mergedPR: 501
-    openPR: 2
-    closedIssue: 66
-    openIssue: 1
-    commit: 0
+    mergedPR: 503
+    openPR: 0
+    closedIssue: 67
+    openIssue: 0
+    commit: 512
   last360d:
-    since: 2025-12-02
-    release: 79
-    mergedPR: 615
-    openPR: 2
-    closedIssue: 97
-    openIssue: 1
-    commit: 0
+    since: 2025-12-03
+    release: 80
+    mergedPR: 619
+    openPR: 0
+    closedIssue: 98
+    openIssue: 0
+    commit: 653
   last720d:
-    since: 2024-12-07
-    release: 97
-    mergedPR: 726
-    openPR: 2
-    closedIssue: 147
-    openIssue: 1
-    commit: 824
+    since: 2024-12-08
+    release: 98
+    mergedPR: 730
+    openPR: 0
+    closedIssue: 148
+    openIssue: 0
+    commit: 829
 total:
-  release: 308
-  mergedPR: 1791
-  openPR: 2
-  closedIssue: 1487
-  openIssue: 1
-  commit: 1681
+  release: 309
+  mergedPR: 1795
+  openPR: 0
+  closedIssue: 1488
+  openIssue: 0
+  commit: 1686
 ---
 path: /home/runner/.x-repo/github.com/pypa/virtualenv
-collectedAt: 2026-11-27T08:28:52Z
+collectedAt: 2026-11-28T07:46:44Z
 loc:
   Python:
-    code: 29933
-    comments: 994
-    blanks: 5729
-    files: 197
+    code: 30042
+    comments: 996
+    blanks: 5760
+    files: 198
   ReStructuredText:
-    code: 5979
+    code: 5999
     comments: 0
-    blanks: 2514
-    files: 19
+    blanks: 2520
+    files: 20
   Toml:
-    code: 5026
+    code: 5042
     comments: 13
-    blanks: 966
+    blanks: 970
     files: 5
   Json:
     code: 596
@@ -173,15 +173,15 @@ loc:
     blanks: 20
     files: 2
 total:
-  code: 42443
-  comments: 1197
-  blanks: 9393
-  files: 252
+  code: 42588
+  comments: 1199
+  blanks: 9434
+  files: 254
 ---
-date: "2026-11-24T23:35:44Z"
+date: "2026-11-28T01:56:13Z"
 repo:
   name: github.com/pypa/virtualenv
-  commit: 678319b52b2e8605afbaad413889c2902589f9af
+  commit: a7a62938ab91b7afa5b6d26652c920a70e8ca25b
 scorecard:
   version: v5.7.0
   commit: d7552fb3cdc05e9f6426177d3328887304fce554
@@ -192,10 +192,6 @@ checks:
     reason: update tool detected
     details:
       - 'Info: detected update tool: Dependabot: .github/dependabot.yaml:1'
-  - name: Code-Review
-    score: 0
-    reason: Found 1/28 approved changesets -- score normalized to 0
-    details: null
   - name: Security-Policy
     score: 10
     reason: security policy file detected
@@ -204,21 +200,31 @@ checks:
       - 'Info: Found linked content: .github/SECURITY.md:1'
       - 'Info: Found disclosure, vulnerability, and/or timelines in security policy: .github/SECURITY.md:1'
       - 'Info: Found text in security policy: .github/SECURITY.md:1'
-  - name: Dangerous-Workflow
-    score: 10
-    reason: no dangerous workflow patterns detected
-    details: null
   - name: Maintained
     score: 10
     reason: 30 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 10
+    details: null
+  - name: Code-Review
+    score: 1
+    reason: Found 3/27 approved changesets -- score normalized to 1
+    details: null
+  - name: Binary-Artifacts
+    score: 6
+    reason: binaries present in source code
+    details:
+      - 'Warn: binary detected: src/virtualenv/seed/wheels/embed/pip-26.0.1-py3-none-any.whl:1'
+      - 'Warn: binary detected: src/virtualenv/seed/wheels/embed/pip-26.3-py3-none-any.whl:1'
+      - 'Warn: binary detected: src/virtualenv/seed/wheels/embed/setuptools-82.0.1-py3-none-any.whl:1'
+      - 'Warn: binary detected: src/virtualenv/seed/wheels/embed/setuptools-84.2.1-py3-none-any.whl:1'
+  - name: Dangerous-Workflow
+    score: 10
+    reason: no dangerous workflow patterns detected
     details: null
   - name: Token-Permissions
     score: 10
     reason: GitHub workflow tokens follow principle of least privilege
     details:
       - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/bash.yaml:23'
-      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/check.yaml:22'
-      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/check.yaml:300'
       - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/check.yaml:333'
       - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/check.yaml:406'
       - 'Info: jobLevel ''security-events'' permission set to ''read'': .github/workflows/check.yaml:407'
@@ -227,33 +233,35 @@ checks:
       - 'Info: jobLevel ''pull-requests'' permission set to ''read'': .github/workflows/check.yaml:478'
       - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/check.yaml:485'
       - 'Info: found token with ''none'' permissions: .github/workflows/check.yaml:1'
+      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/check.yaml:22'
+      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/check.yaml:300'
+      - 'Warn: jobLevel ''security-events'' permission set to ''write'': .github/workflows/codeql.yaml:30'
+      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/codeql.yaml:29'
       - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/codeql.yaml:19'
       - 'Warn: jobLevel ''security-events'' permission set to ''write'': .github/workflows/codeql.yaml:20'
-      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/codeql.yaml:29'
-      - 'Warn: jobLevel ''security-events'' permission set to ''write'': .github/workflows/codeql.yaml:30'
       - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/dependency-review.yaml:13'
       - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/news.yaml:12'
       - 'Info: jobLevel ''pull-requests'' permission set to ''read'': .github/workflows/news.yaml:13'
       - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/pre-release.yaml:27'
       - 'Info: jobLevel ''pull-requests'' permission set to ''read'': .github/workflows/pre-release.yaml:28'
-      - 'Warn: jobLevel ''contents'' permission set to ''write'': .github/workflows/release.yaml:243'
-      - 'Info: found token with ''none'' permissions: .github/workflows/release.yaml:1'
-      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/release.yaml:276'
-      - 'Info: jobLevel ''attestations'' permission set to ''read'': .github/workflows/release.yaml:277'
       - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/release.yaml:383'
       - 'Info: jobLevel ''attestations'' permission set to ''read'': .github/workflows/release.yaml:384'
-      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/release.yaml:176'
-      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/release.yaml:20'
-      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/release.yaml:214'
       - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/release.yaml:485'
       - 'Info: jobLevel ''attestations'' permission set to ''read'': .github/workflows/release.yaml:486'
+      - 'Info: found token with ''none'' permissions: .github/workflows/release.yaml:1'
+      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/release.yaml:20'
+      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/release.yaml:276'
+      - 'Info: jobLevel ''attestations'' permission set to ''read'': .github/workflows/release.yaml:277'
+      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/release.yaml:176'
+      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/release.yaml:214'
+      - 'Warn: jobLevel ''contents'' permission set to ''write'': .github/workflows/release.yaml:243'
+      - 'Info: jobLevel ''issues'' permission set to ''read'': .github/workflows/scorecard.yaml:22'
+      - 'Info: jobLevel ''pull-requests'' permission set to ''read'': .github/workflows/scorecard.yaml:23'
       - 'Warn: jobLevel ''security-events'' permission set to ''write'': .github/workflows/scorecard.yaml:24'
       - 'Info: jobLevel ''statuses'' permission set to ''read'': .github/workflows/scorecard.yaml:25'
       - 'Info: jobLevel ''actions'' permission set to ''read'': .github/workflows/scorecard.yaml:18'
       - 'Info: jobLevel ''checks'' permission set to ''read'': .github/workflows/scorecard.yaml:19'
       - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/scorecard.yaml:20'
-      - 'Info: jobLevel ''issues'' permission set to ''read'': .github/workflows/scorecard.yaml:22'
-      - 'Info: jobLevel ''pull-requests'' permission set to ''read'': .github/workflows/scorecard.yaml:23'
       - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/upgrade-release-tools.yaml:15'
       - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/upgrade.yaml:91'
       - 'Info: found token with ''none'' permissions: .github/workflows/bash.yaml:1'
@@ -266,14 +274,6 @@ checks:
       - 'Info: found token with ''none'' permissions: .github/workflows/scorecard.yaml:1'
       - 'Info: found token with ''none'' permissions: .github/workflows/upgrade-release-tools.yaml:1'
       - 'Info: topLevel ''contents'' permission set to ''read'': .github/workflows/upgrade.yaml:10'
-  - name: Binary-Artifacts
-    score: 6
-    reason: binaries present in source code
-    details:
-      - 'Warn: binary detected: src/virtualenv/seed/wheels/embed/pip-26.0.1-py3-none-any.whl:1'
-      - 'Warn: binary detected: src/virtualenv/seed/wheels/embed/pip-26.3-py3-none-any.whl:1'
-      - 'Warn: binary detected: src/virtualenv/seed/wheels/embed/setuptools-82.0.1-py3-none-any.whl:1'
-      - 'Warn: binary detected: src/virtualenv/seed/wheels/embed/setuptools-84.2.1-py3-none-any.whl:1'
   - name: CII-Best-Practices
     score: 5
     reason: 'badge detected: Passing'
@@ -305,13 +305,21 @@ checks:
     score: 10
     reason: SAST tool is run on all commits
     details:
-      - 'Info: all commits (26) are checked with a SAST tool'
-  - name: License
+      - 'Info: all commits (25) are checked with a SAST tool'
+  - name: Signed-Releases
     score: 10
-    reason: license file detected
+    reason: 5 out of the last 5 releases have a total of 5 signed artifacts and 5 immutable releases.
     details:
-      - 'Info: project has a license file: LICENSE:0'
-      - 'Info: FSF or OSI recognized license: MIT License: LICENSE:0'
+      - 'Info: immutable release: 21.15.14: https://api.github.com/repos/pypa/virtualenv/releases/461140534'
+      - 'Info: immutable release: 21.15.13: https://api.github.com/repos/pypa/virtualenv/releases/455919426'
+      - 'Info: immutable release: 21.15.12: https://api.github.com/repos/pypa/virtualenv/releases/454020394'
+      - 'Info: immutable release: 21.15.11: https://api.github.com/repos/pypa/virtualenv/releases/453309446'
+      - 'Info: immutable release: 21.15.10: https://api.github.com/repos/pypa/virtualenv/releases/453302469'
+      - 'Info: provenance for release artifact: virtualenv.pyz.intoto.jsonl: https://github.com/pypa/virtualenv/releases/tag/21.15.14'
+      - 'Info: provenance for release artifact: virtualenv.pyz.intoto.jsonl: https://github.com/pypa/virtualenv/releases/tag/21.15.13'
+      - 'Info: provenance for release artifact: virtualenv.pyz.intoto.jsonl: https://github.com/pypa/virtualenv/releases/tag/21.15.12'
+      - 'Info: provenance for release artifact: virtualenv.pyz.intoto.jsonl: https://github.com/pypa/virtualenv/releases/tag/21.15.11'
+      - 'Info: provenance for release artifact: virtualenv.pyz.intoto.jsonl: https://github.com/pypa/virtualenv/releases/tag/21.15.10'
   - name: Fuzzing
     score: 10
     reason: project is fuzzed
@@ -320,25 +328,6 @@ checks:
       - 'Info: PythonAtherisFuzzer integration found: tasks/fuzz_powershell_quote.py:12'
       - 'Info: PythonAtherisFuzzer integration found: tasks/fuzz_pyenv_cfg.py:18'
       - 'Info: PythonAtherisFuzzer integration found: tasks/fuzz_shared.py:5'
-  - name: Packaging
-    score: 10
-    reason: packaging workflow detected
-    details:
-      - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/release.yaml:181'
-  - name: Signed-Releases
-    score: 10
-    reason: 5 out of the last 5 releases have a total of 5 signed artifacts and 5 immutable releases.
-    details:
-      - 'Info: immutable release: 21.15.13: https://api.github.com/repos/pypa/virtualenv/releases/455919426'
-      - 'Info: immutable release: 21.15.12: https://api.github.com/repos/pypa/virtualenv/releases/454020394'
-      - 'Info: immutable release: 21.15.11: https://api.github.com/repos/pypa/virtualenv/releases/453309446'
-      - 'Info: immutable release: 21.15.10: https://api.github.com/repos/pypa/virtualenv/releases/453302469'
-      - 'Info: immutable release: 21.15.9: https://api.github.com/repos/pypa/virtualenv/releases/450374697'
-      - 'Info: provenance for release artifact: virtualenv.pyz.intoto.jsonl: https://github.com/pypa/virtualenv/releases/tag/21.15.13'
-      - 'Info: provenance for release artifact: virtualenv.pyz.intoto.jsonl: https://github.com/pypa/virtualenv/releases/tag/21.15.12'
-      - 'Info: provenance for release artifact: virtualenv.pyz.intoto.jsonl: https://github.com/pypa/virtualenv/releases/tag/21.15.11'
-      - 'Info: provenance for release artifact: virtualenv.pyz.intoto.jsonl: https://github.com/pypa/virtualenv/releases/tag/21.15.10'
-      - 'Info: provenance for release artifact: virtualenv.pyz.intoto.jsonl: https://github.com/pypa/virtualenv/releases/tag/21.15.9'
   - name: Branch-Protection
     score: 3
     reason: branch protection is not maximal on development and all release branches
@@ -353,13 +342,22 @@ checks:
       - 'Warn: ''up-to-date branches'' is disabled on branch ''main'''
       - 'Info: status check found to merge onto on branch ''main'''
       - 'Info: PRs are required in order to make changes on branch ''main'''
+  - name: License
+    score: 10
+    reason: license file detected
+    details:
+      - 'Info: project has a license file: LICENSE:0'
+      - 'Info: FSF or OSI recognized license: MIT License: LICENSE:0'
+  - name: Packaging
+    score: 10
+    reason: packaging workflow detected
+    details:
+      - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/release.yaml:181'
   - name: Pinned-Dependencies
     score: 8
     reason: dependency not pinned by hash detected -- score normalized to 8
     details:
       - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/bash.yaml:34: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/bash.yaml/main?enable=pin'
-      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/check.yaml:360: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/check.yaml/main?enable=pin'
-      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/check.yaml:410: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/check.yaml/main?enable=pin'
       - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/check.yaml:464: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/check.yaml/main?enable=pin'
       - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/check.yaml:69: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/check.yaml/main?enable=pin'
       - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/check.yaml:166: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/check.yaml/main?enable=pin'
@@ -371,21 +369,23 @@ checks:
       - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/check.yaml:286: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/check.yaml/main?enable=pin'
       - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/check.yaml:303: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/check.yaml/main?enable=pin'
       - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/check.yaml:317: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/check.yaml/main?enable=pin'
+      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/check.yaml:360: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/check.yaml/main?enable=pin'
+      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/check.yaml:410: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/check.yaml/main?enable=pin'
       - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/dependency-review.yaml:16: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/dependency-review.yaml/main?enable=pin'
       - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/news.yaml:16: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/news.yaml/main?enable=pin'
-      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/release.yaml:30: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/release.yaml/main?enable=pin'
-      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/release.yaml:79: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/release.yaml/main?enable=pin'
-      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/release.yaml:394: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/release.yaml/main?enable=pin'
-      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/release.yaml:407: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/release.yaml/main?enable=pin'
-      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/release.yaml:412: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/release.yaml/main?enable=pin'
-      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/release.yaml:198: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/release.yaml/main?enable=pin'
-      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/release.yaml:246: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/release.yaml/main?enable=pin'
-      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/release.yaml:251: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/release.yaml/main?enable=pin'
-      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/release.yaml:256: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/release.yaml/main?enable=pin'
+      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/release.yaml:280: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/release.yaml/main?enable=pin'
       - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/release.yaml:111: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/release.yaml/main?enable=pin'
       - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/release.yaml:217: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/release.yaml/main?enable=pin'
       - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/release.yaml:227: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/release.yaml/main?enable=pin'
-      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/release.yaml:280: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/release.yaml/main?enable=pin'
+      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/release.yaml:246: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/release.yaml/main?enable=pin'
+      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/release.yaml:251: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/release.yaml/main?enable=pin'
+      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/release.yaml:256: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/release.yaml/main?enable=pin'
+      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/release.yaml:30: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/release.yaml/main?enable=pin'
+      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/release.yaml:79: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/release.yaml/main?enable=pin'
+      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/release.yaml:198: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/release.yaml/main?enable=pin'
+      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/release.yaml:394: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/release.yaml/main?enable=pin'
+      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/release.yaml:407: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/release.yaml/main?enable=pin'
+      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/release.yaml:412: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/release.yaml/main?enable=pin'
       - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/upgrade.yaml:28: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/upgrade.yaml/main?enable=pin'
       - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/upgrade.yaml:80: update your workflow using https://app.stepsecurity.io/secureworkflow/pypa/virtualenv/upgrade.yaml/main?enable=pin'
       - 'Info:   6 out of  37 GitHub-owned GitHubAction dependencies pinned'
@@ -394,7 +394,7 @@ checks:
       - 'Info:   2 out of   2 pipCommand dependencies pinned'
   - name: CI-Tests
     score: 10
-    reason: 26 out of 26 merged PRs checked by a CI test -- score normalized to 10
+    reason: 25 out of 25 merged PRs checked by a CI test -- score normalized to 10
     details: null
   - name: Contributors
     score: 10
@@ -402,4 +402,4 @@ checks:
     details:
       - 'Info: found contributions from: 3DprintFIT, CTPUG, DataExpert-io-Community, EpicGames, Google-Developer-Groups-on-Campus-HKU, LinuxDays, PyCQA, admesh, anthonywritescode, archipelago ai, asottile-archive, betamaxpy, bloomberg lp, cvut, deadsnakes, devassistant, fedora-python, freexian debian ubuntu, hku, ibid, jaseci-labs, jupyterlab, numpy, pre-commit, pre-commit-ci, pyldap, pypy, pytest-dev, python-organizers, pyvec, quansight labs, red hat fit ctu, sass, sclorg, shellcheck-py, slic3r, tox-dev, triplea-game'
 ---
-{"id":455919426,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOABYSSs4bLMdC","tag_name":"21.15.13","target_commitish":"main","name":"21.15.13","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-11-23T19:52:15Z","updated_at":"2026-11-23T19:55:02Z","published_at":"2026-11-23T19:55:02Z","assets":[{"id":784332447,"node_id":"RA_kwDOABYSSs4uv_af","name":"virtualenv.cdx.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":1656365,"digest":"sha256:49930ccdda63adc73b8008c87fccd5caf0e0cfaabc363f7f2efd335f6a24695b","download_count":3,"created_at":"2026-11-23T19:54:55Z","updated_at":"2026-11-23T19:54:55Z"},{"id":784332511,"node_id":"RA_kwDOABYSSs4uv_bf","name":"virtualenv.pyz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":11812422,"digest":"sha256:526e88870734a1206c53e964a90ae9edc5eec43a126005a4ae99a70697de2684","download_count":93,"created_at":"2026-11-23T19:54:56Z","updated_at":"2026-11-23T19:54:57Z"},{"id":784332563,"node_id":"RA_kwDOABYSSs4uv_cT","name":"virtualenv.pyz.cdx.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":2972857,"digest":"sha256:2b857ce43586fefc525460a563d8dea26370ce8c2d4c8981d107528c52b1a629","download_count":3,"created_at":"2026-11-23T19:54:58Z","updated_at":"2026-11-23T19:54:58Z"},{"id":784332615,"node_id":"RA_kwDOABYSSs4uv_dH","name":"virtualenv.pyz.intoto.jsonl","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":10414,"digest":"sha256:c09cba9f8eadf78a5b668c5ce6065f9c022af966b4a047728ab0d33c637fdf59","download_count":5,"created_at":"2026-11-23T19:54:59Z","updated_at":"2026-11-23T19:55:00Z"},{"id":784332659,"node_id":"RA_kwDOABYSSs4uv_dz","name":"virtualenv.spdx.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":137806,"digest":"sha256:c3bee042ed01c139fb5e4315560b7160a7faf182c981a687588c4be44d29b6c7","download_count":3,"created_at":"2026-11-23T19:55:01Z","updated_at":"2026-11-23T19:55:01Z"}],"body":"<a name=\"release-21-15-13-fixed\"></a>\n\n### Bug fixes\n\n- On Windows, include bytecode cache directories and temporary bytecode files when checking whether `--symlink-app-data` needs the seed image's 8.3 short path. This lets virtualenv build seed images when the wheel files fit within the legacy path limit and bytecode compilation needs more room ([#3758](https://github.com/pypa/virtualenv/pull/3758)) by @darrenhuai and @gaborbernat.\n\n[🐍 PyPI release](https://pypi.org/project/virtualenv/21.15.13/)\n\n[📜 Full Changelog](https://github.com/pypa/virtualenv/compare/21.15.12...21.15.13)\n","mentions_count":2}
+{"id":461140534,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOABYSSs4bfHI2","tag_name":"21.15.14","target_commitish":"main","name":"21.15.14","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-11-27T23:00:32Z","updated_at":"2026-11-27T23:03:12Z","published_at":"2026-11-27T23:03:12Z","assets":[{"id":802377776,"node_id":"RA_kwDOABYSSs4v01Aw","name":"virtualenv.cdx.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":1656365,"digest":"sha256:b4bb9667c22c404035f87315d0ceee910f155f312aebeb747fcb80d1b6b319c3","download_count":2,"created_at":"2026-11-27T23:03:07Z","updated_at":"2026-11-27T23:03:07Z"},{"id":802377815,"node_id":"RA_kwDOABYSSs4v01BX","name":"virtualenv.pyz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":11815178,"digest":"sha256:e8da0c57cbfad27446e5f7b6c6304d2ca1612bd556a2cec4792881e3db00dbdd","download_count":4,"created_at":"2026-11-27T23:03:08Z","updated_at":"2026-11-27T23:03:08Z"},{"id":802377870,"node_id":"RA_kwDOABYSSs4v01CO","name":"virtualenv.pyz.cdx.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":2974282,"digest":"sha256:f44d9488f496cb94745f010f3b7c0c9c943a3cf64dbe4ad1c52584cdd18318fb","download_count":2,"created_at":"2026-11-27T23:03:09Z","updated_at":"2026-11-27T23:03:09Z"},{"id":802377916,"node_id":"RA_kwDOABYSSs4v01C8","name":"virtualenv.pyz.intoto.jsonl","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":10269,"digest":"sha256:2c57f7a7e2a73dee7b6d8c64979e3a813b3659d837a193e4a5f3d7950f255e72","download_count":3,"created_at":"2026-11-27T23:03:10Z","updated_at":"2026-11-27T23:03:10Z"},{"id":802377941,"node_id":"RA_kwDOABYSSs4v01DV","name":"virtualenv.spdx.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":137806,"digest":"sha256:619d4bd10f2cf553a1450426c3548d3a70dc09a3d240baa045a6331bc5d04961","download_count":2,"created_at":"2026-11-27T23:03:11Z","updated_at":"2026-11-27T23:03:11Z"}],"body":"<a name=\"release-21-15-14-fixed\"></a>\n\n### Bug fixes\n\n- An explicit `--app-data` path that exists but is not a directory is now a usage error. When `VIRTUALENV_OVERRIDE_APP_DATA` or the default cache names such a path, writable runs warn and use temporary app-data instead of failing while seeding, and a file at the default cache location keeps its permissions ([#3773](https://github.com/pypa/virtualenv/pull/3773)) by @qianeric-backup and @gaborbernat.\n- `--upgrade-embed-wheels` with read-only or temporary app-data now exits with status 1 after one error that asks for a writable `--app-data` folder, instead of logging `could not upgrade` with an empty reason for every package and Python version ([#3774](https://github.com/pypa/virtualenv/pull/3774)) by @qianeric-backup and @gaborbernat.\n\n### New Contributors\n\n- @qianeric-backup made their first contribution in https://github.com/pypa/virtualenv/pull/3773\n\n[🐍 PyPI release](https://pypi.org/project/virtualenv/21.15.14/)\n\n[📜 Full Changelog](https://github.com/pypa/virtualenv/compare/21.15.13...21.15.14)\n","mentions_count":2}
